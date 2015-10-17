@@ -1,2 +1,2 @@
 #/bin/bash
-sfdp -Tpdf $1.dot -o $1.pdf -Eedgecolor='red;blue' -Nshape='point' -Esize=0.3 -Ecolor='#DA91E0AA:#72D0C3AA;0.5' -Earrowshape='crow' -Earrowsize=0.3
+neato -Gratio=0.13 -Tsvg $1.dot -o $1.svg -Ncolor='#00000000' -Nshape='point' -Esize=0.3 -Ecolor='#A2AADBCC:#70B89BCC;0.5' -Earrowshape='crow' -Earrowsize=0.3
