@@ -11,6 +11,9 @@ access_token_secret = "uF4nRCaXkjnrAoMce85Xv0V3uXuFRM0HkFD0quWALjm19"
 consumer_key = "KU24cYenLid8xP7h1hoZ7kFPc"
 consumer_secret = "c1I5Ixn2fWfxeLzk1zTipkvFI1fJv8N0eDe7t9gMR63VvVCu76"
 
+users = {}
+MAX_USERS = 80000000
+
 #This is a basic listener that just prints received tweets to stdout.
 class StdOutListener(StreamListener):
 
@@ -20,32 +23,48 @@ class StdOutListener(StreamListener):
     def on_data(self, data):
         filt = json.loads(data)
 
-
-        # if 'deleted' in filt:
-            # return True
-
         data = {}
-        if 'created_at' in filt:
-            data['date'] = filt['created_at']
         if 'user' in filt:
             data['user'] = filt['user']['screen_name']
+        else:
+            return
+
+        data['mentions'] = []
+        data['hashtags'] = []
+        if 'created_at' in filt:
+            data['date'] = filt['created_at']
+        
+
+
+        l = len(users)
+        if l < MAX_USERS and data['user'] not in users:
+            users[data['user']] = l
+
         if 'entities' in filt:
             if 'hashtags' in filt['entities']:
-                shared_tags = []
                 for hashtag in filt['entities']['hashtags']:
-                    shared_tags.append(hashtag['text'])
-                data['hashtags'] = shared_tags
+                    h = hashtag['text']
+                    st = u'tags/' + h
+                    f = open(st, 'a+')
+                    # f.write(str(users[data['user']]))
+                    f.close()
+
             if 'user_mentions' in filt['entities']:
-                data['mentions'] = []
                 for mentioned in filt['entities']['user_mentions']:
-                    data['mentions'].append(mentioned['screen_name'])
+                    x = mentioned['screen_name']
+                    l = len(users)
+                    if l < MAX_USERS and x not in users:
+                        users[x] = l
+                    if x in users and data['user'] in users:
+                        print users[x], users[data['user']]
+
         if 'geo' in filt:
             data['coords'] = filt['geo']
         if 'text' in filt:
             data['text'] = filt['text']
         
-        if 'mentions' in data and 'hashtags' in data:
- 	       print json.dumps(data)
+        # if 'mentions' in data and 'hashtags' in data:
+ 	       # print json.dumps(data)
         # if 'retweeted_status' in filt and filt['retweeted_status']:
 	       #   print json.dumps(data)
         return True
@@ -66,7 +85,8 @@ if __name__ == '__main__':
             stream.sample()
         except KeyboardInterrupt:
 			break
-        except:
+        except Exception,e:
+            print str(e)
             continue
 
 try:
