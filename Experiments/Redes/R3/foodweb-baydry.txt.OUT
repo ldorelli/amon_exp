@@ -1,0 +1,79 @@
+FANMOD 1.1 subgraph enumeration
+-------------------------------
+
+Network name: C:\Users\LuisFernando\Desktop\Redes\foodweb-baydry.txt
+Network type: Directed
+Number of nodes: 129
+Number of edges: 2106
+Number of single edges: 2075
+Number of mutual edges: 31
+
+Algorithm: enumeration
+Subgraph size: 3
+
+Generated 1000 random networks
+   with locally constant number of bidirectional edges,
+   3 exchanges per edge and 3 tries per edge.
+
+65755 subgraphs were enumerated in the original network.
+63949978 subgraphs were enumerated in the random networks.
+64015733 subgraphs were enumerated in all networks.
+
+For the random networks: 13654471 tries were made, 4103295 were successful.
+Randomization took 7.47 seconds.
+Enumeration took 46.12 seconds.
+
+
+Result overview:
+
+ ID Adj   Frequency     Mean-Freq  Standard-Dev    Z-Score  p-Value
+         [Original]      [Random]      [Random]
+
+ 36 000     32.612%       32.626%    0.00067282   -0.20969    0.554
+    100
+    100
+
+  6 000     28.854%       28.701%     0.0007096     2.1554    0.019
+    000
+    110
+
+ 12 000     22.818%       21.106%     0.0011056     15.486        0
+    001
+    10
+
+ 38 000     12.449%       13.702%     0.0016158    -7.7515        1
+    100
+    110
+
+164 010     1.5406%       1.5047%    0.00039554    0.90713    0.178
+    100
+    100
+
+ 14 000    0.74823%      0.81191%    0.00036767     -1.732    0.958
+    001
+    110
+
+102 001    0.31633%        0.304%    0.00026568    0.46381    0.309
+    100
+    110
+
+ 78 001    0.17337%      0.21073%   9.7131e-005    -3.8465        1
+    001
+    110
+
+166 010    0.14752%      0.21823%    0.00017812    -3.9699        1
+    100
+    110
+
+ 46 000    0.12014%      0.12912%     0.0001973   -0.45479    0.674
+    101
+    110
+
+174 010    0.11406%     0.084813%   9.6873e-005     3.0191    0.002
+    101
+    110
+
+140 010    0.10646%      0.60164%    0.00044398    -11.153        1
+    001
+    100
+

@@ -1,0 +1,47 @@
+FANMOD 1.1 subgraph enumeration
+-------------------------------
+
+Network name: C:\Users\LuisFernando\Desktop\Redes\e_coli.txt
+Network type: Directed
+Number of nodes: 100
+Number of edges: 212
+Number of single edges: 212
+Number of mutual edges: 0
+
+Algorithm: enumeration
+Subgraph size: 3
+
+Generated 1000 random networks
+   with locally constant number of bidirectional edges,
+   3 exchanges per edge and 3 tries per edge.
+
+674 subgraphs were enumerated in the original network.
+905198 subgraphs were enumerated in the random networks.
+905872 subgraphs were enumerated in all networks.
+
+For the random networks: 732911 tries were made, 634509 were successful.
+Randomization took 0.353 seconds.
+Enumeration took 0.476 seconds.
+
+
+Result overview:
+
+ ID Adj   Frequency     Mean-Freq  Standard-Dev    Z-Score  p-Value
+         [Original]      [Random]      [Random]
+
+ 12 000     37.092%       39.964%     0.0033009    -8.7009        1
+    001
+    100
+
+  6 000     24.926%       31.541%     0.0017204    -38.451        1
+    000
+    110
+
+ 38 000     19.288%       1.3822%     0.0039005     45.906        0
+    100
+    110
+
+ 36 000     18.694%       26.901%     0.0019606    -41.855        1
+    100
+    100
+

@@ -1,0 +1,47 @@
+FANMOD 1.1 subgraph enumeration
+-------------------------------
+
+Network name: C:\Users\LuisFernando\Desktop\Redes\s208_st.txt
+Network type: Directed
+Number of nodes: 123
+Number of edges: 189
+Number of single edges: 189
+Number of mutual edges: 0
+
+Algorithm: enumeration
+Subgraph size: 3
+
+Generated 1000 random networks
+   with locally constant number of bidirectional edges,
+   3 exchanges per edge and 3 tries per edge.
+
+503 subgraphs were enumerated in the original network.
+516346 subgraphs were enumerated in the random networks.
+516849 subgraphs were enumerated in all networks.
+
+For the random networks: 608782 tries were made, 567300 were successful.
+Randomization took 0.26 seconds.
+Enumeration took 0.268 seconds.
+
+
+Result overview:
+
+ ID Adj   Frequency     Mean-Freq  Standard-Dev    Z-Score  p-Value
+         [Original]      [Random]      [Random]
+
+ 12 000     47.714%       51.278%     0.0036511    -9.7623        1
+    001
+    100
+
+  6 000     32.604%         31.3%      0.001602      8.139        0
+    000
+    110
+
+ 36 000     17.694%       16.775%     0.0020773     4.4251        0
+    100
+    100
+
+140 010     1.9881%      0.18411%     0.0018561      9.719        0
+    001
+    100
+

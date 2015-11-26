@@ -1,0 +1,59 @@
+FANMOD 1.1 subgraph enumeration
+-------------------------------
+
+Network name: C:\Users\LuisFernando\Desktop\Redes\yeastinter_st.txt
+Network type: Directed
+Number of nodes: 689
+Number of edges: 1078
+Number of single edges: 1077
+Number of mutual edges: 1
+
+Algorithm: enumeration
+Subgraph size: 3
+
+Generated 1000 random networks
+   with locally constant number of bidirectional edges,
+   3 exchanges per edge and 3 tries per edge.
+
+13150 subgraphs were enumerated in the original network.
+13266226 subgraphs were enumerated in the random networks.
+13279376 subgraphs were enumerated in all networks.
+
+For the random networks: 3588951 tries were made, 3227139 were successful.
+Randomization took 2.257 seconds.
+Enumeration took 2795.01 seconds.
+
+
+Result overview:
+
+ ID Adj   Frequency     Mean-Freq  Standard-Dev    Z-Score  p-Value
+         [Original]      [Random]      [Random]
+
+  6 000     90.327%       89.967%    0.00024253     14.843        0
+    000
+    110
+
+ 36 000     6.7605%       7.1247%    0.00025555    -14.253        1
+    100
+    100
+
+ 12 000     2.2281%         2.64%    0.00028248     -14.58        1
+    001
+    100
+
+ 38 000    0.53232%      0.10349%    0.00029814     14.383        0
+    100
+    110
+
+ 14 000    0.13688%      0.14177%   4.5564e-005    -1.0718    0.903
+    001
+    110
+
+102 001  0.0076046%  5.2781e-005%   6.2896e-006     12.007        0
+    100
+    110
+
+166 010  0.0076046%   0.00036193%   1.6126e-005     4.4912        0
+    100
+    110
+

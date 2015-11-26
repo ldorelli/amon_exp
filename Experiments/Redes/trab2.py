@@ -387,13 +387,12 @@ for i in range(0, len(f)):
 	ax.scatter(x, y, marker='o', label=L, alpha=.5, facecolors='none', edgecolors=colors[i], s=4.0)
 
 handles, labels = ax.get_legend_handles_labels()
-ax.set_ylim([1, 400])
-ax.set_xlim([0.0001, 0.01])
-# ax.set_xticks([0, 1, 10, 50, 100, 300, 1000])
+ax.set_ylim([0, 1])
+ax.set_xlim([0, 35000000])
+
 ax.set_xscale('log')
-ax.set_yscale('log')
-ax.set_ylabel('Degree', size=15)
-ax.set_xlabel('Average time spent on random walk (s)', size=15)
+ax.set_ylabel('Number of Edges', size=15)
+ax.set_xlabel('Clustering Coefficient', size=15)
 ax.legend(handles, labels, loc=1)
 plt.savefig('results_2/randomwalk.pdf')
 
