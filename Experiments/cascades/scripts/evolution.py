@@ -21,8 +21,8 @@ big_cc = []
 
 vis = {}
 
-filename = 'netw'
-f = open('../' + filename, 'r')
+filename = 'netw2'
+f = open('../raw/s1/' + filename, 'r')
 
 for line in f:
 	if not line[0].isdigit():

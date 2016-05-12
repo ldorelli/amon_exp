@@ -75,14 +75,14 @@ def smallestFitInterval (data, percentage):
             hi = mi
         else:
             lo = mi + 1
-    return lo
+    return lo/float(r)
 
 
 
 mpl.rcParams['font.family'] = 'Arial'
 
 g = amon.Graph()
-g.load_directed('../netw2')
+g.load_directed('../raw/s1/netw2')
 cm = amon.CascadeModel (g)
 
 
@@ -90,7 +90,7 @@ i_ref = { key : 0 for key in g.node_keys() }
 o_ref = { key : 0 for key in g.node_keys() }
 
 
-f = open('../hashtags_pl', 'r')
+f = open('../raw/s1/hashtags_pl', 'r')
 for line in f:
 
     tag = json.loads(line)
@@ -107,7 +107,7 @@ for line in f:
 
     print 'Name ', tag['name'].encode('utf-8'), len(pr)
     print 'Probability ', len(pr)/float(g.nodes_qty())
-    print 'TimeIndex ', smallestFitInterval (v, 0.7)
+    print 'TimeIndex ', smallestFitInterval (v, 0.5)
 
 
     # P ( compartilhar | dois vizinhos compartilharam) = P ( A | B ) / P (B)
@@ -140,45 +140,46 @@ for line in f:
         print 'CProb ', 0.0
 
 
-    for d in range (0, 1):
-	#  Two types of cascades each
-        cm.run_from_record_paths(v, d + 1)
-        cg = cm.cascades()
+    cm.run_from_record_paths(v,  1)
+    cg = cm.cascades()
 
-        D = cg.dag_paths()
-        r = 0.0
-        for x in D:
-            r += D[x]
+    D = cg.dag_paths()
 
-        print 'DisjointPaths' , getCascadeFlow (cg)
+    r = 0.0
+    for x in D:
+        r += D[x]
 
-        if cg.nodes_qty() != 0:
-            print 'Average#Paths ', r/float(len(D))
-        else:
-            print 'Average#Paths ', 0
+    print 'ConnectedElements ', cg.nodes_qty()/float(len(pr))
 
-        T = g.cascade_centrality (cg)
-        print 'CascadeCentrality ', T[0]
-        print 'NetworkCentrality ', T[1]
+    print 'DisjointPaths' , getCascadeFlow (cg)
 
-	# Distance to source
-        K = cg.node_keys()
-        L = []
-        for x in K:
-            if cg.in_degree(x) == 0:
-                L.append(x)
-        B = cg.bfs(L)
+    if cg.nodes_qty() != 0:
+        print 'Average#Paths ', r/float(len(D))
+    else:
+        print 'Average#Paths ', 0
 
-        m = 0
-        m2 = 0
-        for x in B:
-            m = max(m, B[x])
-            m2 += B[x]
+    T = g.cascade_centrality (cg)
+    print 'CascadeCentrality ', T[0]
+    print 'NetworkCentrality ', T[1]
 
-        print 'MaxDistance ', m
-        print 'AverageDistance ', m2/float(len(B))
+# Distance to source
+    K = cg.node_keys()
+    L = []
+    for x in K:
+        if cg.in_degree(x) == 0:
+            L.append(x)
+    B = cg.bfs(L)
 
-	p = cg.as_dot(True)
-	dot_file = open ('../dots/' + tag['name'].encode('utf-8') + str(d) + '.dot', 'w')
-	dot_file.write(p)
-	dot_file.close()
+    m = 0
+    m2 = 0
+    for x in B:
+        m = max(m, B[x])
+        m2 += B[x]
+
+    print 'MaxDistance ', m
+    print 'AverageDistance ', m2/float(len(B))
+
+    p = cg.as_dot(True)
+    dot_file = open ('../dots/' + tag['name'].encode('utf-8') + str(0) + '.dot', 'w')
+    dot_file.write(p)
+    dot_file.close()

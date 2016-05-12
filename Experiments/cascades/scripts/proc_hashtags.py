@@ -14,18 +14,18 @@ import sys
 
 mpl.rcParams['font.family'] = 'Arial'
 
-f = open('../hashtags2', 'r')
+f = open('../raw/s1/hashtags', 'r')
 
-print 'Loading hashtags'
-l = f.readline()
-f.close()
-tags = json.loads(l)
+tags = {}
+for line  in f:
+    t = json.loads(line)
+    if t['name'] not in tags:
+        tags[t['name']] = []
 
-f = open('../hashtags_pl', 'w+')
+    tags[t['name']].append ( { 'date' : t['date'], 'user' : t['user'] })
 
 for tag in tags:
-    tags[tag] = { 'name' : tag, 'values' : tags[tag] }
-    f.write ( json.dumps(tags[tag]) + '\n' )
+    t = { 'name': tag, 'values' : tags[tag] }
+    if len (t['values']) >= 1000:
+        print json.dumps (t)
 f.close()
-
-
