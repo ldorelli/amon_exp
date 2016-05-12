@@ -15,13 +15,14 @@ import matplotlib.cm as cm
 import seaborn as sns
 import pandas as pd
 
-f = open('data_cascades3', 'r')
+f = open('data_cascades6', 'r')
 
 m = {}
-labels = [ "name", "density", "timei",  "mprob", "dpaths", "avg_paths1", "ccentrality1",
+labels = [ "name", "density", "timei",  "mprob", "conec", "dpaths", "avg_paths1", "ccentrality1",
 	"ncentrality1", "maxdist1", "avgdist1" ]
 
 names = {}
+names['conec'] = 'Connected Elements'
 names['dpaths'] = 'Number of Disjoint Paths'
 names['timei'] = 'STW (70%)'
 names['name'] = 'Hashtag Name'
@@ -32,6 +33,9 @@ names['ccentrality1'] = 'Cascade Centrality'
 names['ncentrality1'] = 'Network Centrality of Cascade'
 names['maxdist1'] = 'Maximum Cascade Reach'
 names['avgdist1'] = 'Average Distance'
+
+plt.gcf().subplots_adjust(bottom=0.15)
+plt.gcf().subplots_adjust(left=0.25)
 
 for x in labels:
 	m[x] = []
@@ -50,18 +54,18 @@ while cont:
 
 current_palette = sns.color_palette()
 
-while True:
-	print 'Enter command:'
-	x = raw_input()
-
-	if x == "stop":
-		print 'Leaving... bye ;)'
-		break
-	else:
-		v = x.split(' ')
+for x in names:
+	for y in names:
+		if x == y:
+			continue
+		if x == 'name' or y == 'name':
+			continue
+		if y <= x:
+			continue
 		df = pd.DataFrame()
-		df[names[v[0]]] = m[v[0]]
-		df[names[v[1]]] = m[v[1]]
-		sns.jointplot (x=names[v[0]], y=names[v[1]], data=df, alpha=0.5)
-		plt.savefig ('../figs/cascade_grap/' + v[2])
-		print 'Saved fig ' + v[2]
+		df[names[x]] = m[x]
+		df[names[y]] = m[y]
+		plt.clf()
+		sns.jointplot (x=names[x], y=names[y], data=df, alpha=0.5)
+		plt.savefig ('../figs/cascade_grap/' + x + '_' + y + '.png')
+		print 'Saved fig ' + '../figs/cascade_grap/' + x + '_' + y + '.png'

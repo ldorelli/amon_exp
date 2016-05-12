@@ -1,6 +1,6 @@
 Name  baekhyun 1327
 Probability  0.000176926987552
-TimeIndex  6042178
+TimeIndex  0.440372989113
 CProb  1.0
 DisjointPaths 36
 Average#Paths  1.04295403165
@@ -10,7 +10,7 @@ MaxDistance  2
 AverageDistance  0.280331574981
 Name  سكس 2181
 Probability  0.000290789570347
-TimeIndex  1209521
+TimeIndex  0.0610609197063
 CProb  1.0
 DisjointPaths 49
 Average#Paths  1.57955066483
@@ -20,7 +20,7 @@ MaxDistance  3
 AverageDistance  0.0669417698304
 Name  SuperTuesday 1691
 Probability  0.000225458580219
-TimeIndex  1164136
+TimeIndex  0.0936177871433
 CProb  1.0
 DisjointPaths 68
 Average#Paths  1.02188054406
@@ -30,7 +30,7 @@ MaxDistance  3
 AverageDistance  0.113542282673
 Name  سوريا 1596
 Probability  0.000212792367847
-TimeIndex  5062340
+TimeIndex  0.292721290839
 CProb  1.0
 DisjointPaths 45
 Average#Paths  1.00438596491
@@ -40,7 +40,7 @@ MaxDistance  2
 AverageDistance  0.0833333333333
 Name  StPatricksDay 8718
 Probability  0.00116235831008
-TimeIndex  3834382
+TimeIndex  0.142841093634
 CProb  0.936170212766
 DisjointPaths 138
 Average#Paths  1.00412938747
@@ -50,7 +50,7 @@ MaxDistance  2
 AverageDistance  0.0338380362468
 Name  ALDUBBagongYugto 6558
 Probability  0.000874368639311
-TimeIndex  4727000
+TimeIndex  0.18105415844
 CProb  1.0
 DisjointPaths 490
 Average#Paths  114.204940531
@@ -60,7 +60,7 @@ MaxDistance  5
 AverageDistance  0.802683745044
 Name  BeFoUr 1418
 Probability  0.000189059885719
-TimeIndex  4575381
+TimeIndex  0.166585044438
 CProb  1.0
 DisjointPaths 6
 Average#Paths  1.0
@@ -70,7 +70,7 @@ MaxDistance  1
 AverageDistance  0.0049365303244
 Name  twimaker 1120
 Probability  0.000149327977437
-TimeIndex  6105649
+TimeIndex  0.394823640503
 CProb  0.0
 DisjointPaths 0
 Average#Paths  1.0
@@ -80,7 +80,7 @@ MaxDistance  0
 AverageDistance  0.0
 Name  백현 2233
 Probability  0.000297722655014
-TimeIndex  5961040
+TimeIndex  0.426792235276
 CProb  0.987212276215
 DisjointPaths 64
 Average#Paths  1.03896103896
@@ -90,7 +90,7 @@ MaxDistance  2
 AverageDistance  0.231079265562
 Name  اليمن 1334
 Probability  0.000177860287411
-TimeIndex  5962218
+TimeIndex  0.361619751226
 CProb  0.333333333333
 DisjointPaths 28
 Average#Paths  1.00374812594
@@ -100,7 +100,7 @@ MaxDistance  1
 AverageDistance  0.071964017991
 Name  MSG2Celebration 1992
 Probability  0.000265590474155
-TimeIndex  4481898
+TimeIndex  0.201546405784
 CProb  1.0
 DisjointPaths 174
 Average#Paths  5.37751004016
@@ -110,7 +110,7 @@ MaxDistance  3
 AverageDistance  0.710843373494
 Name  GOT7 4322
 Probability  0.000576245998644
-TimeIndex  4294662
+TimeIndex  0.230553923325
 CProb  0.996360327571
 DisjointPaths 175
 Average#Paths  1.04673762147
@@ -120,7 +120,7 @@ MaxDistance  3
 AverageDistance  0.160805182786
 Name  الكويت 1381
 Probability  0.000184126729321
-TimeIndex  6921673
+TimeIndex  0.406566403371
 CProb  0.0833333333333
 DisjointPaths 18
 Average#Paths  1.00072411296
@@ -130,7 +130,7 @@ MaxDistance  1
 AverageDistance  0.0412744388125
 Name  DescendantsOfTheSun 7727
 Probability  0.00103022971576
-TimeIndex  4274597
+TimeIndex  0.212637446536
 CProb  0.655984919887
 DisjointPaths 271
 Average#Paths  1.01177688624
@@ -140,7 +140,7 @@ MaxDistance  4
 AverageDistance  0.149734696519
 Name  السعودية 5191
 Probability  0.000692108509708
-TimeIndex  4885318
+TimeIndex  0.304742515111
 CProb  0.962779156328
 DisjointPaths 107
 Average#Paths  1.04835291851
@@ -150,7 +150,7 @@ MaxDistance  2
 AverageDistance  0.15912155654
 Name  MSGProducts4U 2703
 Probability  0.000360387074117
-TimeIndex  4056591
+TimeIndex  0.189385081171
 CProb  0.978358262024
 DisjointPaths 244
 Average#Paths  4.92045874954
@@ -160,7 +160,7 @@ MaxDistance  4
 AverageDistance  0.745098039216
 Name  JFCJustinBieber 1301
 Probability  0.000173460445219
-TimeIndex  4058837
+TimeIndex  0.19629848971
 CProb  1.0
 DisjointPaths 65
 Average#Paths  1.13989239047
@@ -170,7 +170,7 @@ MaxDistance  4
 AverageDistance  0.269792467333
 Name  love 1813
 Probability  0.000241724663475
-TimeIndex  5671966
+TimeIndex  0.315175049777
 CProb  0.607142857143
 DisjointPaths 30
 Average#Paths  1.0027578599
@@ -180,7 +180,7 @@ MaxDistance  2
 AverageDistance  0.0353006067292
 Name  heroinwebseries 1621
 Probability  0.000216125581629
-TimeIndex  3640925
+TimeIndex  0.166093684944
 CProb  0.937652811736
 DisjointPaths 70
 Average#Paths  1.2282541641
@@ -190,7 +190,7 @@ MaxDistance  5
 AverageDistance  0.618753855645
 Name  FF 2700
 Probability  0.000359987088463
-TimeIndex  5179145
+TimeIndex  0.212297837972
 CProb  0.993209855213
 DisjointPaths 173
 Average#Paths  6480.99333333
@@ -200,7 +200,7 @@ MaxDistance  4
 AverageDistance  0.383703703704
 Name  ULTRALIVE 1797
 Probability  0.000239591406655
-TimeIndex  4996287
+TimeIndex  0.0981709256255
 CProb  0.777292576419
 DisjointPaths 74
 Average#Paths  1.01168614357
@@ -210,7 +210,7 @@ MaxDistance  3
 AverageDistance  0.113522537563
 Name  exoluxiondot 4730
 Probability  0.000630644047567
-TimeIndex  5789546
+TimeIndex  0.401840950578
 CProb  0.759227711528
 DisjointPaths 230
 Average#Paths  1.0689217759
@@ -220,7 +220,7 @@ MaxDistance  3
 AverageDistance  0.301057082452
 Name  HappyStPatricksDay 1208
 Probability  0.000161060889949
-TimeIndex  3084332
+TimeIndex  0.129510712924
 CProb  0.00631834750911
 DisjointPaths 16
 Average#Paths  1.00165562914
@@ -230,7 +230,7 @@ MaxDistance  1
 AverageDistance  0.0198675496689
 Name  followme 2193
 Probability  0.000292389512963
-TimeIndex  5251628
+TimeIndex  0.321179171907
 CProb  0.0
 DisjointPaths 16
 Average#Paths  1.0009119927
@@ -240,7 +240,7 @@ MaxDistance  1
 AverageDistance  0.00820793433653
 Name  AldenVsJeraldLSBPH 2451
 Probability  0.000326788279194
-TimeIndex  5201461
+TimeIndex  0.208970294589
 CProb  0.417542402658
 DisjointPaths 220
 Average#Paths  1.71970624235
@@ -250,7 +250,7 @@ MaxDistance  3
 AverageDistance  0.47531619747
 Name  PurposeTour 2242
 Probability  0.000298922611976
-TimeIndex  3658283
+TimeIndex  0.184106050922
 CProb  0.601910828025
 DisjointPaths 42
 Average#Paths  1.01962533452
@@ -260,7 +260,7 @@ MaxDistance  2
 AverageDistance  0.342551293488
 Name  RTした人全員フォローする 7402
 Probability  0.000986897936594
-TimeIndex  5196041
+TimeIndex  0.269032356322
 CProb  0.99577167019
 DisjointPaths 363
 Average#Paths  1.01013239665
@@ -270,7 +270,7 @@ MaxDistance  3
 AverageDistance  0.103215347203
 Name  الاتحاد 2002
 Probability  0.000266923759668
-TimeIndex  3592738
+TimeIndex  0.205114897948
 CProb  0.379120879121
 DisjointPaths 40
 Average#Paths  1.0034965035
@@ -280,7 +280,7 @@ MaxDistance  2
 AverageDistance  0.0874125874126
 Name  androidgames 8273
 Probability  0.00110302710476
-TimeIndex  5915160
+TimeIndex  0.382508650761
 CProb  0.0
 DisjointPaths 0
 Average#Paths  1.0
@@ -290,7 +290,7 @@ MaxDistance  0
 AverageDistance  0.0
 Name  JIMIN 1867
 Probability  0.000248924405245
-TimeIndex  4373833
+TimeIndex  0.21654433781
 CProb  0.875
 DisjointPaths 21
 Average#Paths  1.00053561864
@@ -300,7 +300,7 @@ MaxDistance  2
 AverageDistance  0.0187466523835
 Name  عاجل 1043
 Probability  0.000139061678988
-TimeIndex  4657379
+TimeIndex  0.261720599447
 CProb  0.335652173913
 DisjointPaths 57
 Average#Paths  1.02780441035
@@ -310,7 +310,7 @@ MaxDistance  2
 AverageDistance  0.116970278044
 Name  UptownFunk 5120
 Probability  0.000682642182567
-TimeIndex  3289646
+TimeIndex  0.1286371469
 CProb  0.999411505076
 DisjointPaths 211
 Average#Paths  1.473828125
@@ -320,7 +320,7 @@ MaxDistance  3
 AverageDistance  0.5390625
 Name  SouhilaBenLachhab 1416
 Probability  0.000188793228616
-TimeIndex  3459703
+TimeIndex  0.228606284358
 CProb  1.0
 DisjointPaths 126
 Average#Paths  1.62146892655
@@ -330,7 +330,7 @@ MaxDistance  5
 AverageDistance  1.14406779661
 Name  QuedaDoPlanalto 2225
 Probability  0.000296656026604
-TimeIndex  4115059
+TimeIndex  0.203399292153
 CProb  0.967820069204
 DisjointPaths 123
 Average#Paths  1.31235955056
@@ -340,7 +340,7 @@ MaxDistance  3
 AverageDistance  0.245393258427
 Name  followmejp 1431
 Probability  0.000190793156885
-TimeIndex  4909179
+TimeIndex  0.296111126236
 CProb  0.0714285714286
 DisjointPaths 16
 Average#Paths  1.00069881202
@@ -350,7 +350,7 @@ MaxDistance  1
 AverageDistance  0.0132774283718
 Name  SEHUN 2167
 Probability  0.000288922970629
-TimeIndex  5969385
+TimeIndex  0.263761698318
 CProb  0.275988960442
 DisjointPaths 37
 Average#Paths  1.02676511306
@@ -360,7 +360,7 @@ MaxDistance  2
 AverageDistance  0.479926165205
 Name  news 2115
 Probability  0.000281989885963
-TimeIndex  2594148
+TimeIndex  0.117031153813
 CProb  0.47619047619
 DisjointPaths 79
 Average#Paths  1.0085106383
@@ -370,7 +370,7 @@ MaxDistance  2
 AverageDistance  0.0704491725768
 Name  PAKvBAN 1057
 Probability  0.000140928278706
-TimeIndex  1307423
+TimeIndex  0.065024852917
 CProb  0.561643835616
 DisjointPaths 61
 Average#Paths  1.00851466414
@@ -380,7 +380,7 @@ MaxDistance  2
 AverageDistance  0.109744560076
 Name  StillSanders 2444
 Probability  0.000325854979335
-TimeIndex  4172096
+TimeIndex  0.266092994791
 CProb  0.987951807229
 DisjointPaths 180
 Average#Paths  1.83715220949
@@ -390,7 +390,7 @@ MaxDistance  5
 AverageDistance  0.44558101473
 Name  Syria 1193
 Probability  0.00015906096168
-TimeIndex  5122631
+TimeIndex  0.294185686722
 CProb  0.784431137725
 DisjointPaths 65
 Average#Paths  1.02682313495
@@ -400,7 +400,7 @@ MaxDistance  2
 AverageDistance  0.159262363789
 Name  ALDENvasionSaYnares 4503
 Probability  0.000600378466426
-TimeIndex  4705540
+TimeIndex  0.196361225765
 CProb  0.781642405932
 DisjointPaths 345
 Average#Paths  5.31223628692
@@ -410,7 +410,7 @@ MaxDistance  4
 AverageDistance  0.636908727515
 Name  FCBJuve 1806
 Probability  0.000240791363616
-TimeIndex  1427482
+TimeIndex  0.0367424732147
 CProb  0.939508506616
 DisjointPaths 24
 Average#Paths  1.0227021041
@@ -420,7 +420,7 @@ MaxDistance  3
 AverageDistance  0.47065337763
 Name  np 3675
 Probability  0.000489982425964
-TimeIndex  5785345
+TimeIndex  0.354714469012
 CProb  0.803149606299
 DisjointPaths 95
 Average#Paths  1.00217627856
@@ -430,7 +430,7 @@ MaxDistance  2
 AverageDistance  0.0348204570185
 Name  ImWithHer 1189
 Probability  0.000158527647475
-TimeIndex  1589310
+TimeIndex  0.0995208686495
 CProb  0.789683981112
 DisjointPaths 96
 Average#Paths  1.28595458368
@@ -440,7 +440,7 @@ MaxDistance  6
 AverageDistance  0.32716568545
 Name  Giveaway 1389
 Probability  0.000185193357732
-TimeIndex  5161322
+TimeIndex  0.30438090063
 CProb  0.890173410405
 DisjointPaths 47
 Average#Paths  1.0158387329
@@ -450,7 +450,7 @@ MaxDistance  3
 AverageDistance  0.089992800576
 Name  GOT7FlightLog 1047
 Probability  0.000139594993193
-TimeIndex  3526976
+TimeIndex  0.206843183034
 CProb  0.382795698925
 DisjointPaths 46
 Average#Paths  1.00955109838
@@ -460,7 +460,7 @@ MaxDistance  2
 AverageDistance  0.116523400191
 Name  دعاء 1443
 Probability  0.000192393099501
-TimeIndex  4759510
+TimeIndex  0.337656928684
 CProb  0.0535714285714
 DisjointPaths 20
 Average#Paths  1.00069300069
@@ -470,7 +470,7 @@ MaxDistance  1
 AverageDistance  0.017325017325
 Name  tbt 1133
 Probability  0.000151061248603
-TimeIndex  4519158
+TimeIndex  0.189248152992
 CProb  0.0
 DisjointPaths 8
 Average#Paths  1.0
@@ -480,7 +480,7 @@ MaxDistance  1
 AverageDistance  0.0185348631951
 Name  Win 1000
 Probability  0.000133328551283
-TimeIndex  4056798
+TimeIndex  0.269234105152
 CProb  0.9
 DisjointPaths 33
 Average#Paths  1.007
@@ -490,7 +490,7 @@ MaxDistance  2
 AverageDistance  0.13
 Name  TreCru 8932
 Probability  0.00119089062006
-TimeIndex  6183834
+TimeIndex  0.41081851752
 CProb  0.0
 DisjointPaths 0
 Average#Paths  1.0
@@ -500,7 +500,7 @@ MaxDistance  0
 AverageDistance  0.0
 Name  جدة 1354
 Probability  0.000180526858437
-TimeIndex  3739272
+TimeIndex  0.226011659822
 CProb  0.347402597403
 DisjointPaths 30
 Average#Paths  1.02215657312
@@ -510,7 +510,7 @@ MaxDistance  3
 AverageDistance  0.0753323485968
 Name  ParadiseIsland2 1107
 Probability  0.00014759470627
-TimeIndex  6684003
+TimeIndex  0.454361783509
 CProb  0.0
 DisjointPaths 1
 Average#Paths  1.0
@@ -520,7 +520,7 @@ MaxDistance  1
 AverageDistance  0.000903342366757
 Name  DEPARTURE 1569
 Probability  0.000209192496962
-TimeIndex  4166886
+TimeIndex  0.23793257121
 CProb  0.173277661795
 DisjointPaths 33
 Average#Paths  1.00254939452
@@ -530,7 +530,7 @@ MaxDistance  2
 AverageDistance  0.0363288718929
 Name  نشر_سيرته 2285
 Probability  0.000304655739681
-TimeIndex  6241051
+TimeIndex  0.417795640955
 CProb  0.0
 DisjointPaths 4
 Average#Paths  1.0
@@ -540,7 +540,7 @@ MaxDistance  1
 AverageDistance  0.00175054704595
 Name  AusGP 1556
 Probability  0.000207459225796
-TimeIndex  6317559
+TimeIndex  0.379495036124
 CProb  0.935185185185
 DisjointPaths 44
 Average#Paths  1.02763496144
@@ -550,7 +550,7 @@ MaxDistance  3
 AverageDistance  0.228149100257
 Name  News 1495
 Probability  0.000199326184168
-TimeIndex  2975149
+TimeIndex  0.114979862687
 CProb  0.25
 DisjointPaths 56
 Average#Paths  1.00334448161
@@ -560,7 +560,7 @@ MaxDistance  1
 AverageDistance  0.236120401338
 Name  socialmedia 1014
 Probability  0.000135195151001
-TimeIndex  4858526
+TimeIndex  0.277905617863
 CProb  0.152173913043
 DisjointPaths 38
 Average#Paths  1.00788954635
@@ -570,7 +570,7 @@ MaxDistance  1
 AverageDistance  0.0828402366864
 Name  art 1916
 Probability  0.000255457504258
-TimeIndex  5274596
+TimeIndex  0.297115870432
 CProb  0.756854256854
 DisjointPaths 71
 Average#Paths  1.19832985386
@@ -580,7 +580,7 @@ MaxDistance  3
 AverageDistance  0.127348643006
 Name  LFC 1465
 Probability  0.000195326327629
-TimeIndex  5284909
+TimeIndex  0.287690811054
 CProb  0.928571428571
 DisjointPaths 31
 Average#Paths  1.03139931741
@@ -590,7 +590,7 @@ MaxDistance  2
 AverageDistance  0.41023890785
 Name  WT20 5168
 Probability  0.000689041953029
-TimeIndex  6939582
+TimeIndex  0.316911386877
 CProb  0.892398973701
 DisjointPaths 244
 Average#Paths  1.67530959752
@@ -600,7 +600,7 @@ MaxDistance  3
 AverageDistance  0.33842879257
 Name  กูจะไม่ยอมเห็นรูปนี้คนเดียว 2671
 Probability  0.000356120560476
-TimeIndex  3936862
+TimeIndex  0.191010248294
 CProb  0.0597826086957
 DisjointPaths 35
 Average#Paths  1.00037439161
@@ -610,7 +610,7 @@ MaxDistance  1
 AverageDistance  0.0172220142269
 Name  SoundCloud 3964
 Probability  0.000528514377284
-TimeIndex  6359838
+TimeIndex  0.411095509118
 CProb  0.768656716418
 DisjointPaths 74
 Average#Paths  1.00126135217
@@ -620,7 +620,7 @@ MaxDistance  2
 AverageDistance  0.0262361251261
 Name  ﷺ 6242
 Probability  0.000832236817106
-TimeIndex  6406274
+TimeIndex  0.429276696408
 CProb  0.148648648649
 DisjointPaths 27
 Average#Paths  1.0
@@ -630,7 +630,7 @@ MaxDistance  1
 AverageDistance  0.00464594681192
 Name  TBworld2016 4206
 Probability  0.000560779886695
-TimeIndex  5118703
+TimeIndex  0.311112529849
 CProb  0.314915720324
 DisjointPaths 328
 Average#Paths  1.14312886353
@@ -640,7 +640,7 @@ MaxDistance  4
 AverageDistance  0.254398478364
 Name  gameinsight 10656
 Probability  0.00142074904247
-TimeIndex  6014893
+TimeIndex  0.392784694607
 CProb  0.0
 DisjointPaths 2
 Average#Paths  1.0
@@ -650,7 +650,7 @@ MaxDistance  1
 AverageDistance  0.000187687687688
 Name  ايران 1647
 Probability  0.000219592123962
-TimeIndex  6693382
+TimeIndex  0.486140378388
 CProb  0.283333333333
 DisjointPaths 15
 Average#Paths  1.00546448087
@@ -660,7 +660,7 @@ MaxDistance  2
 AverageDistance  0.0686095931998
 Name  TWICE 1101
 Probability  0.000146794734962
-TimeIndex  4425694
+TimeIndex  0.239293584066
 CProb  0.51256281407
 DisjointPaths 34
 Average#Paths  1.03088101726
@@ -670,7 +670,7 @@ MaxDistance  3
 AverageDistance  0.14259763851
 Name  PURPOSETOUR 1044
 Probability  0.000139195007539
-TimeIndex  4137823
+TimeIndex  0.266476162301
 CProb  0.0
 DisjointPaths 8
 Average#Paths  1.0
@@ -680,7 +680,7 @@ MaxDistance  1
 AverageDistance  0.0124521072797
 Name  FeelTheBern 2449
 Probability  0.000326521622091
-TimeIndex  2768762
+TimeIndex  0.112307829316
 CProb  0.81319216259
 DisjointPaths 173
 Average#Paths  1.45569620253
@@ -690,7 +690,7 @@ MaxDistance  4
 AverageDistance  0.27970600245
 Name  NeverTrump 1746
 Probability  0.000232791650539
-TimeIndex  3234716
+TimeIndex  0.130876519895
 CProb  0.832134887181
 DisjointPaths 144
 Average#Paths  1.52119129439
@@ -700,7 +700,7 @@ MaxDistance  3
 AverageDistance  0.320160366552
 Name  VemPraDemocracia 2500
 Probability  0.000333321378207
-TimeIndex  7406010
+TimeIndex  0.405978521246
 CProb  0.964337034618
 DisjointPaths 201
 Average#Paths  1.9548
@@ -710,7 +710,7 @@ MaxDistance  4
 AverageDistance  0.4512
 Name  tcot 1692
 Probability  0.00022559190877
-TimeIndex  3380569
+TimeIndex  0.14116536964
 CProb  0.53073089701
 DisjointPaths 116
 Average#Paths  1.18262411348
@@ -720,7 +720,7 @@ MaxDistance  3
 AverageDistance  0.340425531915
 Name  giveaway 2371
 Probability  0.000316121995091
-TimeIndex  4748408
+TimeIndex  0.291741655253
 CProb  0.619178082192
 DisjointPaths 78
 Average#Paths  1.01307465205
@@ -730,7 +730,7 @@ MaxDistance  3
 AverageDistance  0.0733867566428
 Name  トレクル 10295
 Probability  0.00137261743545
-TimeIndex  6026071
+TimeIndex  0.401373429718
 CProb  0.0
 DisjointPaths 0
 Average#Paths  1.0
@@ -740,7 +740,7 @@ MaxDistance  0
 AverageDistance  0.0
 Name  PS4share 1168
 Probability  0.000155727747898
-TimeIndex  6203174
+TimeIndex  0.425639048032
 CProb  1.0
 DisjointPaths 17
 Average#Paths  1.00085616438
@@ -750,7 +750,7 @@ MaxDistance  2
 AverageDistance  0.0196917808219
 Name  Harmonizers 12497
 Probability  0.00166620690538
-TimeIndex  3508707
+TimeIndex  0.111856150233
 CProb  0.98547567175
 DisjointPaths 445
 Average#Paths  1.43026326318
@@ -760,7 +760,7 @@ MaxDistance  5
 AverageDistance  0.943346403137
 Name  PrimaryDay 3551
 Probability  0.000473449685605
-TimeIndex  1167166
+TimeIndex  0.084700928831
 CProb  0.380764563107
 DisjointPaths 168
 Average#Paths  1.07237397916
@@ -770,7 +770,7 @@ MaxDistance  3
 AverageDistance  0.216277105041
 Name  YouKnowYouLoveThem 1309
 Probability  0.000174527073629
-TimeIndex  4010649
+TimeIndex  0.166995365289
 CProb  0.437531871494
 DisjointPaths 71
 Average#Paths  1.05271199389
@@ -780,7 +780,7 @@ MaxDistance  2
 AverageDistance  0.237585943468
 Name  اذكار 1166
 Probability  0.000155461090796
-TimeIndex  4194003
+TimeIndex  0.258539284783
 CProb  0.0
 DisjointPaths 16
 Average#Paths  1.0
@@ -790,7 +790,7 @@ MaxDistance  1
 AverageDistance  0.02487135506
 Name  モンスト 1273
 Probability  0.000169727245783
-TimeIndex  6373955
+TimeIndex  0.357923115375
 CProb  1.0
 DisjointPaths 4
 Average#Paths  1.00078554595
@@ -800,7 +800,7 @@ MaxDistance  1
 AverageDistance  0.019638648861
 Name  job 2832
 Probability  0.000377586457232
-TimeIndex  4567317
+TimeIndex  0.28349611615
 CProb  0.0
 DisjointPaths 29
 Average#Paths  1.00070621469
@@ -810,7 +810,7 @@ MaxDistance  1
 AverageDistance  0.010593220339
 Name  Hiring 1686
 Probability  0.000224791937463
-TimeIndex  4143536
+TimeIndex  0.295495808814
 CProb  0.0
 DisjointPaths 16
 Average#Paths  1.00118623962
@@ -820,7 +820,7 @@ MaxDistance  1
 AverageDistance  0.00948991696323
 Name  hadith 1542
 Probability  0.000205592626078
-TimeIndex  6266370
+TimeIndex  0.405255591683
 CProb  0.0
 DisjointPaths 3
 Average#Paths  1.0
@@ -830,7 +830,7 @@ MaxDistance  1
 AverageDistance  0.00194552529183
 Name  Venezuela 1380
 Probability  0.00018399340077
-TimeIndex  4132012
+TimeIndex  0.217769780221
 CProb  0.673267326733
 DisjointPaths 78
 Average#Paths  1.03623188406
@@ -840,7 +840,7 @@ MaxDistance  3
 AverageDistance  0.175362318841
 Name  PAKvsIND 1266
 Probability  0.000168793945924
-TimeIndex  6748055
+TimeIndex  0.232441895393
 CProb  0.0470924009989
 DisjointPaths 52
 Average#Paths  1.00552922591
@@ -850,7 +850,7 @@ MaxDistance  2
 AverageDistance  0.161927330174
 Name  DolceAmoreYunNa 1153
 Probability  0.000153727819629
-TimeIndex  2302197
+TimeIndex  0.181929739552
 CProb  0.999030837004
 DisjointPaths 106
 Average#Paths  4.42584562012
@@ -860,7 +860,7 @@ MaxDistance  3
 AverageDistance  0.60537727667
 Name  PrayForTurkey 2706
 Probability  0.000360787059771
-TimeIndex  6124070
+TimeIndex  0.282425337692
 CProb  0.0503978779841
 DisjointPaths 39
 Average#Paths  1.0
@@ -870,7 +870,7 @@ MaxDistance  2
 AverageDistance  0.0284552845528
 Name  iKON 1728
 Probability  0.000230391736616
-TimeIndex  4051034
+TimeIndex  0.182221442076
 CProb  0.61038961039
 DisjointPaths 56
 Average#Paths  1.00983796296
@@ -880,7 +880,7 @@ MaxDistance  2
 AverageDistance  0.11400462963
 Name  RETWEET 1712
 Probability  0.000228258479796
-TimeIndex  4478754
+TimeIndex  0.202793044092
 CProb  0.876360039565
 DisjointPaths 66
 Average#Paths  19.0969626168
@@ -890,7 +890,7 @@ MaxDistance  3
 AverageDistance  0.761682242991
 Name  BuyWorkFromHomeOniTunes 3765
 Probability  0.000501981995579
-TimeIndex  3300236
+TimeIndex  0.0481983722583
 CProb  0.393902252183
 DisjointPaths 231
 Average#Paths  1.03612217795
@@ -900,7 +900,7 @@ MaxDistance  3
 AverageDistance  0.15219123506
 Name  Trump2016 3696
 Probability  0.000492782325541
-TimeIndex  2969678
+TimeIndex  0.115505205373
 CProb  0.887034448738
 DisjointPaths 191
 Average#Paths  3.88906926407
@@ -910,7 +910,7 @@ MaxDistance  3
 AverageDistance  0.625811688312
 Name  MarchMadness 8616
 Probability  0.00114875879785
-TimeIndex  5189515
+TimeIndex  0.272875838245
 CProb  0.219696969697
 DisjointPaths 134
 Average#Paths  1.00359753975
@@ -920,7 +920,7 @@ MaxDistance  2
 AverageDistance  0.0671927585006
 Name  freefollowers 1637
 Probability  0.00021825883845
-TimeIndex  6758316
+TimeIndex  0.477488104982
 CProb  0.0
 DisjointPaths 2
 Average#Paths  1.0
@@ -930,7 +930,7 @@ MaxDistance  1
 AverageDistance  0.001221001221
 Name  BEFOUR 2412
 Probability  0.000321588465694
-TimeIndex  4559898
+TimeIndex  0.213372225159
 CProb  0.538361508453
 DisjointPaths 107
 Average#Paths  1.05223880597
@@ -940,7 +940,7 @@ MaxDistance  4
 AverageDistance  0.096600331675
 Name  DiaryTootsies 1689
 Probability  0.000225191923116
-TimeIndex  5164786
+TimeIndex  0.233160580198
 CProb  0.135371179039
 DisjointPaths 44
 Average#Paths  1.00118413262
@@ -950,7 +950,7 @@ MaxDistance  3
 AverageDistance  0.0627590290112
 Name  DolceAmoreMeetTheIbarras 1143
 Probability  0.000152394534116
-TimeIndex  1749039
+TimeIndex  0.149587702733
 CProb  0.939051482662
 DisjointPaths 95
 Average#Paths  3.94313210849
@@ -960,7 +960,7 @@ MaxDistance  3
 AverageDistance  0.639545056868
 Name  相互希望 1334
 Probability  0.000177860287411
-TimeIndex  4821109
+TimeIndex  0.220664162052
 CProb  0.748031496063
 DisjointPaths 48
 Average#Paths  1.0059970015
@@ -970,7 +970,7 @@ MaxDistance  2
 AverageDistance  0.0892053973013
 Name  fashion 1273
 Probability  0.000169727245783
-TimeIndex  3992214
+TimeIndex  0.189476042688
 CProb  0.654596100279
 DisjointPaths 56
 Average#Paths  1.02904238619
@@ -980,7 +980,7 @@ MaxDistance  3
 AverageDistance  0.0808477237049
 Name  とうらぶ 1089
 Probability  0.000145194792347
-TimeIndex  2820995
+TimeIndex  0.0736595007785
 CProb  0.833333333333
 DisjointPaths 7
 Average#Paths  1.0
@@ -990,7 +990,7 @@ MaxDistance  1
 AverageDistance  0.0146923783287
 Name  PRODUCE101 1281
 Probability  0.000170793874193
-TimeIndex  4765672
+TimeIndex  0.231194482752
 CProb  0.732418524871
 DisjointPaths 64
 Average#Paths  1.04527712724
@@ -1000,7 +1000,7 @@ MaxDistance  2
 AverageDistance  0.348946135831
 Name  BAEKHYUN 1040
 Probability  0.000138661693334
-TimeIndex  6001133
+TimeIndex  0.333120481251
 CProb  0.418181818182
 DisjointPaths 26
 Average#Paths  1.02115384615
@@ -1010,7 +1010,7 @@ MaxDistance  2
 AverageDistance  0.209615384615
 Name  ksa 1547
 Probability  0.000206259268834
-TimeIndex  4796117
+TimeIndex  0.315988581406
 CProb  0.107142857143
 DisjointPaths 8
 Average#Paths  1.02133160957
@@ -1020,7 +1020,7 @@ MaxDistance  1
 AverageDistance  0.127989657401
 Name  刀剣乱舞 1126
 Probability  0.000150127948744
-TimeIndex  3085817
+TimeIndex  0.0754329174159
 CProb  0.833333333333
 DisjointPaths 5
 Average#Paths  1.0
@@ -1030,7 +1030,7 @@ MaxDistance  1
 AverageDistance  0.01243339254
 Name  mPLUSPlaces 1323
 Probability  0.000176393673347
-TimeIndex  6485852
+TimeIndex  0.431797279542
 CProb  0.0
 DisjointPaths 0
 Average#Paths  1.0
@@ -1040,7 +1040,7 @@ MaxDistance  0
 AverageDistance  0.0
 Name  ドッカンバトル 3693
 Probability  0.000492382339887
-TimeIndex  5163421
+TimeIndex  0.38195504691
 CProb  0.0
 DisjointPaths 1
 Average#Paths  1.0
@@ -1050,7 +1050,7 @@ MaxDistance  1
 AverageDistance  0.000541565123206
 Name  OcupaBrasilia 2391
 Probability  0.000318788566117
-TimeIndex  3365663
+TimeIndex  0.0971583460797
 CProb  0.674162604183
 DisjointPaths 152
 Average#Paths  1.21706398996
@@ -1060,7 +1060,7 @@ MaxDistance  3
 AverageDistance  0.229192806357
 Name  porn 1439
 Probability  0.000191859785296
-TimeIndex  2112397
+TimeIndex  0.131612930603
 CProb  0.303223747207
 DisjointPaths 55
 Average#Paths  1.15913829048
@@ -1070,7 +1070,7 @@ MaxDistance  2
 AverageDistance  0.118832522585
 Name  사설토토추천사이트 1244
 Probability  0.000165860717796
-TimeIndex  1853325
+TimeIndex  0.132577030161
 CProb  1.0
 DisjointPaths 22
 Average#Paths  1.77652733119
@@ -1080,7 +1080,7 @@ MaxDistance  2
 AverageDistance  0.620578778135
 Name  competition 1196
 Probability  0.000159460947334
-TimeIndex  3879870
+TimeIndex  0.256663428848
 CProb  0.642857142857
 DisjointPaths 28
 Average#Paths  1.00585284281
@@ -1090,7 +1090,7 @@ MaxDistance  2
 AverageDistance  0.0493311036789
 Name  استغفار 1965
 Probability  0.00026199060327
-TimeIndex  4683544
+TimeIndex  0.208745124716
 CProb  0.40625
 DisjointPaths 24
 Average#Paths  1.00305343511
@@ -1100,7 +1100,7 @@ MaxDistance  1
 AverageDistance  0.0162849872774
 Name  quote 2858
 Probability  0.000381052999566
-TimeIndex  5763963
+TimeIndex  0.349690215497
 CProb  0.322530864198
 DisjointPaths 91
 Average#Paths  1.02764170749
@@ -1110,7 +1110,7 @@ MaxDistance  3
 AverageDistance  0.162701189643
 Name  わーーーージャニオタさんと繋がるお時間がまいりましたいっぱい繋がりましょ 1695
 Probability  0.000225991894424
-TimeIndex  5010273
+TimeIndex  0.26449116216
 CProb  0.718954248366
 DisjointPaths 106
 Average#Paths  1.00294985251
@@ -1120,7 +1120,7 @@ MaxDistance  2
 AverageDistance  0.0867256637168
 Name  CruzCrew 1199
 Probability  0.000159860932988
-TimeIndex  2775613
+TimeIndex  0.107605360658
 CProb  0.730324445872
 DisjointPaths 109
 Average#Paths  2.82985821518
@@ -1130,7 +1130,7 @@ MaxDistance  3
 AverageDistance  0.605504587156
 Name  WINNER 1470
 Probability  0.000195992970385
-TimeIndex  4334480
+TimeIndex  0.200905745745
 CProb  0.785532994924
 DisjointPaths 63
 Average#Paths  1.08367346939
@@ -1140,7 +1140,7 @@ MaxDistance  2
 AverageDistance  0.276870748299
 Name  네임드사다리 1085
 Probability  0.000144661478142
-TimeIndex  2569078
+TimeIndex  0.176333180653
 CProb  0.933223413026
 DisjointPaths 18
 Average#Paths  1.37603686636
@@ -1150,7 +1150,7 @@ MaxDistance  2
 AverageDistance  0.314285714286
 Name  FreebieFriday 1187
 Probability  0.000158260990372
-TimeIndex  5830998
+TimeIndex  0.441859008907
 CProb  0.536585365854
 DisjointPaths 28
 Average#Paths  1.00589721988
@@ -1160,7 +1160,7 @@ MaxDistance  2
 AverageDistance  0.0497051390059
 Name  marketing 1199
 Probability  0.000159860932988
-TimeIndex  4506452
+TimeIndex  0.260867776874
 CProb  0.208791208791
 DisjointPaths 47
 Average#Paths  1.00834028357
@@ -1170,7 +1170,7 @@ MaxDistance  2
 AverageDistance  0.0767306088407
 Name  TGC 1009
 Probability  0.000134528508244
-TimeIndex  4774888
+TimeIndex  0.114446959115
 CProb  0.794117647059
 DisjointPaths 10
 Average#Paths  1.00594648167
@@ -1180,7 +1180,7 @@ MaxDistance  3
 AverageDistance  0.345887016848
 Name  sougofollow 2041
 Probability  0.000272123573168
-TimeIndex  5314514
+TimeIndex  0.324893276556
 CProb  0.109243697479
 DisjointPaths 17
 Average#Paths  1.0004899559
@@ -1190,7 +1190,7 @@ MaxDistance  1
 AverageDistance  0.00979911807937
 Name  더쇼 1037
 Probability  0.00013826170768
-TimeIndex  2084948
+TimeIndex  0.0255249849333
 CProb  0.0182926829268
 DisjointPaths 16
 Average#Paths  1.00385728062
@@ -1200,7 +1200,7 @@ MaxDistance  1
 AverageDistance  0.0279652844744
 Name  Hello 3341
 Probability  0.000445450689835
-TimeIndex  3355239
+TimeIndex  0.126700433653
 CProb  0.973608400706
 DisjointPaths 175
 Average#Paths  1.89494163424
@@ -1210,7 +1210,7 @@ MaxDistance  5
 AverageDistance  0.486082011374
 Name  SiguemeMarioBautista 1111
 Probability  0.000148128020475
-TimeIndex  4540963
+TimeIndex  0.0459233017156
 CProb  0.535353535354
 DisjointPaths 42
 Average#Paths  1.00720072007
@@ -1220,7 +1220,7 @@ MaxDistance  1
 AverageDistance  0.043204320432
 Name  MakeAmericaGreatAgain 2033
 Probability  0.000271056944758
-TimeIndex  2807167
+TimeIndex  0.116193798733
 CProb  0.674641148325
 DisjointPaths 120
 Average#Paths  1.46778160354
@@ -1230,7 +1230,7 @@ MaxDistance  3
 AverageDistance  0.354648303
 Name  sex 1232
 Probability  0.00016426077518
-TimeIndex  2011972
+TimeIndex  0.130735765952
 CProb  0.103856162763
 DisjointPaths 42
 Average#Paths  1.02272727273
@@ -1240,7 +1240,7 @@ MaxDistance  2
 AverageDistance  0.0673701298701
 Name  EXO 1620
 Probability  0.000215992253078
-TimeIndex  5681317
+TimeIndex  0.317936097422
 CProb  0.320490367776
 DisjointPaths 32
 Average#Paths  1.01358024691
@@ -1250,7 +1250,7 @@ MaxDistance  1
 AverageDistance  0.0783950617284
 Name  GetWellSoonDylan 2583
 Probability  0.000344387647963
-TimeIndex  5970713
+TimeIndex  0.153866590147
 CProb  0.171171171171
 DisjointPaths 84
 Average#Paths  1.00232288037
@@ -1260,7 +1260,7 @@ MaxDistance  2
 AverageDistance  0.0665892373209
 Name  DolanTwinsNewVideo 1690
 Probability  0.000225325251668
-TimeIndex  118048
+TimeIndex  0.00678518628157
 CProb  0.0786516853933
 DisjointPaths 33
 Average#Paths  1.00059171598
@@ -1270,7 +1270,7 @@ MaxDistance  2
 AverageDistance  0.0307692307692
 Name  saudi 1168
 Probability  0.000155727747898
-TimeIndex  3666705
+TimeIndex  0.229630018327
 CProb  1.0
 DisjointPaths 8
 Average#Paths  1.02054794521
@@ -1280,7 +1280,7 @@ MaxDistance  1
 AverageDistance  0.186643835616
 Name  GOP 1032
 Probability  0.000137595064924
-TimeIndex  3551629
+TimeIndex  0.161692262318
 CProb  0.0793650793651
 DisjointPaths 46
 Average#Paths  1.01550387597
@@ -1290,7 +1290,7 @@ MaxDistance  2
 AverageDistance  0.0794573643411
 Name  OneDirection 1218
 Probability  0.000162394175462
-TimeIndex  4165595
+TimeIndex  0.202893834265
 CProb  0.974066390041
 DisjointPaths 48
 Average#Paths  1.18801313629
@@ -1300,7 +1300,7 @@ MaxDistance  2
 AverageDistance  0.317733990148
 Name  TBT 1438
 Probability  0.000191726456744
-TimeIndex  5068241
+TimeIndex  0.187922158479
 CProb  0.0195599022005
 DisjointPaths 12
 Average#Paths  1.0
@@ -1310,7 +1310,7 @@ MaxDistance  2
 AverageDistance  0.0118219749652
 Name  jobs 1880
 Probability  0.000250657676411
-TimeIndex  3148756
+TimeIndex  0.166463023332
 CProb  0.0673076923077
 DisjointPaths 45
 Average#Paths  1.00265957447
@@ -1320,7 +1320,7 @@ MaxDistance  1
 AverageDistance  0.0356382978723
 Name  Hadith 3532
 Probability  0.00047091644313
-TimeIndex  6260988
+TimeIndex  0.434906675511
 CProb  0.274509803922
 DisjointPaths 7
 Average#Paths  1.0
@@ -1330,7 +1330,7 @@ MaxDistance  1
 AverageDistance  0.0019818799547
 Name  いつ恋 1124
 Probability  0.000149861291642
-TimeIndex  3334087
+TimeIndex  0.0733471202321
 CProb  0.0
 DisjointPaths 0
 Average#Paths  1.0
@@ -1340,7 +1340,7 @@ MaxDistance  0
 AverageDistance  0.0
 Name  MGWV 2494
 Probability  0.000332521406899
-TimeIndex  3371731
+TimeIndex  0.153236401576
 CProb  0.893879686138
 DisjointPaths 72
 Average#Paths  47.7510024058
@@ -1350,7 +1350,7 @@ MaxDistance  3
 AverageDistance  1.3488372093
 Name  PJNET 1004
 Probability  0.000133861865488
-TimeIndex  3143758
+TimeIndex  0.114579451812
 CProb  0.664158326435
 DisjointPaths 66
 Average#Paths  2.15139442231
@@ -1360,7 +1360,7 @@ MaxDistance  4
 AverageDistance  0.873505976096
 Name  lovelive 1115
 Probability  0.00014866133468
-TimeIndex  6525005
+TimeIndex  0.459373642536
 CProb  0.142857142857
 DisjointPaths 25
 Average#Paths  1.00089686099
@@ -1370,7 +1370,7 @@ MaxDistance  1
 AverageDistance  0.0304932735426
 Name  Daredevil 1314
 Probability  0.000175193716385
-TimeIndex  6915097
+TimeIndex  0.351133314532
 CProb  0.722222222222
 DisjointPaths 24
 Average#Paths  1.0395738204
@@ -1380,7 +1380,7 @@ MaxDistance  2
 AverageDistance  0.0570776255708
 Name  Easter 1042
 Probability  0.000138928350436
-TimeIndex  5228055
+TimeIndex  0.291206620252
 CProb  0.353356890459
 DisjointPaths 35
 Average#Paths  1.01343570058
@@ -1390,7 +1390,7 @@ MaxDistance  2
 AverageDistance  0.102687140115
 Name  Periscope 10676
 Probability  0.00142341561349
-TimeIndex  6685602
+TimeIndex  0.451891422766
 CProb  0.0518653321201
 DisjointPaths 103
 Average#Paths  1.00018733608
@@ -1400,7 +1400,7 @@ MaxDistance  4
 AverageDistance  0.0134881978269
 Name  FOLLOWTRICK 1273
 Probability  0.000169727245783
-TimeIndex  3644114
+TimeIndex  0.170026351137
 CProb  0.839623954048
 DisjointPaths 38
 Average#Paths  12.3134328358
@@ -1410,7 +1410,7 @@ MaxDistance  3
 AverageDistance  1.67321288295
 Name  ALDUBBalikMansyon 5415
 Probability  0.000721974105195
-TimeIndex  3296549
+TimeIndex  0.156567265823
 CProb  0.914434782609
 DisjointPaths 353
 Average#Paths  561.852262235
@@ -1420,7 +1420,7 @@ MaxDistance  5
 AverageDistance  0.805170821791
 Name  HOUSEPARTYINBKK 1481
 Probability  0.00019745958445
-TimeIndex  6610843
+TimeIndex  0.441257683471
 CProb  0.724085365854
 DisjointPaths 96
 Average#Paths  1.08642808913
@@ -1430,7 +1430,7 @@ MaxDistance  3
 AverageDistance  0.342336259284
 Name  아이콘 1034
 Probability  0.000137861722026
-TimeIndex  3210061
+TimeIndex  0.176736855984
 CProb  0.474576271186
 DisjointPaths 29
 Average#Paths  1.00386847195
@@ -1440,7 +1440,7 @@ MaxDistance  2
 AverageDistance  0.120889748549
 Name  Jobs 1924
 Probability  0.000256524132668
-TimeIndex  4105806
+TimeIndex  0.277840758468
 CProb  0.0
 DisjointPaths 28
 Average#Paths  1.00103950104
@@ -1450,7 +1450,7 @@ MaxDistance  1
 AverageDistance  0.0155925155925
 Name  OneOfTheseNights 1966
 Probability  0.000262123931822
-TimeIndex  3355906
+TimeIndex  0.181320093349
 CProb  0.555555555556
 DisjointPaths 49
 Average#Paths  1.02085452696
@@ -1460,7 +1460,7 @@ MaxDistance  2
 AverageDistance  0.227873855544
 Name  SuperCampInBKK 7311
 Probability  0.000974765038427
-TimeIndex  5909845
+TimeIndex  0.344689563268
 CProb  0.951033792797
 DisjointPaths 419
 Average#Paths  1.4100670223
@@ -1470,7 +1470,7 @@ MaxDistance  4
 AverageDistance  0.698673232116
 Name  SelenaGomez 2158
 Probability  0.000287723013668
-TimeIndex  3050675
+TimeIndex  0.0595956697143
 CProb  0.919759036145
 DisjointPaths 134
 Average#Paths  1.46014828545
@@ -1480,7 +1480,7 @@ MaxDistance  4
 AverageDistance  0.454124189064
 Name  BBB16 3432
 Probability  0.000457583588002
-TimeIndex  1658467
+TimeIndex  0.0826284572284
 CProb  0.915817069618
 DisjointPaths 200
 Average#Paths  1.17453379953
@@ -1490,7 +1490,7 @@ MaxDistance  3
 AverageDistance  0.333916083916
 Name  YouNow 1172
 Probability  0.000156261062103
-TimeIndex  6987029
+TimeIndex  0.43645285497
 CProb  1.0
 DisjointPaths 9
 Average#Paths  1.0
@@ -1500,7 +1500,7 @@ MaxDistance  1
 AverageDistance  0.0102301790281
 Name  photography 1303
 Probability  0.000173727102321
-TimeIndex  4043066
+TimeIndex  0.198271913171
 CProb  0.361736334405
 DisjointPaths 55
 Average#Paths  1.04681504221
@@ -1510,7 +1510,7 @@ MaxDistance  3
 AverageDistance  0.123561013047
 Name  BayernJuve 1596
 Probability  0.000212792367847
-TimeIndex  1377410
+TimeIndex  0.0335262871654
 CProb  0.5875
 DisjointPaths 38
 Average#Paths  1.00438596491
@@ -1520,7 +1520,7 @@ MaxDistance  2
 AverageDistance  0.281328320802
 Name  music 1658
 Probability  0.000221058738027
-TimeIndex  4975868
+TimeIndex  0.292639492995
 CProb  0.0351201478743
 DisjointPaths 36
 Average#Paths  1.00361881785
@@ -1530,7 +1530,7 @@ MaxDistance  2
 AverageDistance  0.0422195416164
 Name  ドラゴンボール 3687
 Probability  0.000491582368579
-TimeIndex  5169005
+TimeIndex  0.386400374255
 CProb  0.0
 DisjointPaths 0
 Average#Paths  1.0
@@ -1540,7 +1540,7 @@ MaxDistance  0
 AverageDistance  0.0
 Name  nsfw 1079
 Probability  0.000143861506834
-TimeIndex  2029449
+TimeIndex  0.129864088187
 CProb  0.281864726489
 DisjointPaths 46
 Average#Paths  1.50695088044
@@ -1550,7 +1550,7 @@ MaxDistance  2
 AverageDistance  0.140871177016
 Name  FOLLOW 1805
 Probability  0.000240658035065
-TimeIndex  3979972
+TimeIndex  0.199363444144
 CProb  0.757363513125
 DisjointPaths 62
 Average#Paths  20.1700831025
@@ -1560,7 +1560,7 @@ MaxDistance  4
 AverageDistance  1.2459833795
 Name  Quran 4675
 Probability  0.000623310977246
-TimeIndex  6684379
+TimeIndex  0.45154473619
 CProb  0.227272727273
 DisjointPaths 17
 Average#Paths  1.00021390374
@@ -1570,7 +1570,7 @@ MaxDistance  2
 AverageDistance  0.00470588235294
 Name  찬열 1118
 Probability  0.000149061320334
-TimeIndex  6107265
+TimeIndex  0.312044372622
 CProb  0.406392694064
 DisjointPaths 31
 Average#Paths  1.01699463327
@@ -1580,7 +1580,7 @@ MaxDistance  2
 AverageDistance  0.12343470483
 Name  SXSW 2272
 Probability  0.000302922468514
-TimeIndex  5953144
+TimeIndex  0.392796817087
 CProb  0.105831533477
 DisjointPaths 59
 Average#Paths  1.00572183099
@@ -1590,7 +1590,7 @@ MaxDistance  2
 AverageDistance  0.101672535211
 Name  GetWellSoonKai 1523
 Probability  0.000203059383603
-TimeIndex  4852393
+TimeIndex  0.330067752538
 CProb  0.0977353992849
 DisjointPaths 39
 Average#Paths  1.00853578464
@@ -1600,7 +1600,7 @@ MaxDistance  2
 AverageDistance  0.126723571898
 Name  MSG2in500CrClub 1804
 Probability  0.000240524706514
-TimeIndex  1948195
+TimeIndex  0.125308134417
 CProb  0.86045030413
 DisjointPaths 182
 Average#Paths  2.00720620843
@@ -1610,7 +1610,7 @@ MaxDistance  5
 AverageDistance  0.662416851441
 Name  F4F 1536
 Probability  0.00020479265477
-TimeIndex  3657732
+TimeIndex  0.152529323712
 CProb  0.829745913578
 DisjointPaths 49
 Average#Paths  4.21614583333
@@ -1620,7 +1620,7 @@ MaxDistance  4
 AverageDistance  1.03515625
 Name  TuitUtil 6774
 Probability  0.000903167606389
-TimeIndex  6237313
+TimeIndex  0.403032770075
 CProb  0.0208955223881
 DisjointPaths 43
 Average#Paths  1.00118098612
@@ -1630,7 +1630,7 @@ MaxDistance  2
 AverageDistance  0.00767640980218
 Name  위너 1090
 Probability  0.000145328120898
-TimeIndex  4239390
+TimeIndex  0.201989024499
 CProb  0.528985507246
 DisjointPaths 60
 Average#Paths  1.0880733945
@@ -1640,7 +1640,7 @@ MaxDistance  2
 AverageDistance  0.215596330275
 Name  الهلال 2245
 Probability  0.000299322597629
-TimeIndex  3718803
+TimeIndex  0.214215569547
 CProb  0.809503051439
 DisjointPaths 83
 Average#Paths  1.3719376392
@@ -1650,7 +1650,7 @@ MaxDistance  4
 AverageDistance  0.19153674833
 Name  F1 1584
 Probability  0.000211192425232
-TimeIndex  6851678
+TimeIndex  0.439429880469
 CProb  0.402985074627
 DisjointPaths 62
 Average#Paths  1.01957070707
@@ -1660,7 +1660,7 @@ MaxDistance  2
 AverageDistance  0.241792929293
 Name  10YearsWithThaiELF 1439
 Probability  0.000191859785296
-TimeIndex  3881705
+TimeIndex  0.308186355577
 CProb  0.415584415584
 DisjointPaths 106
 Average#Paths  1.05003474635
@@ -1670,7 +1670,7 @@ MaxDistance  3
 AverageDistance  0.214732453092
 Name  おそ松さん 2243
 Probability  0.000299055940527
-TimeIndex  5830698
+TimeIndex  0.405595094373
 CProb  0.41847826087
 DisjointPaths 27
 Average#Paths  1.00490414623
@@ -1680,7 +1680,7 @@ MaxDistance  3
 AverageDistance  0.109674543023
 Name  مكة 1024
 Probability  0.000136528436513
-TimeIndex  3976391
+TimeIndex  0.231738068641
 CProb  0.0
 DisjointPaths 6
 Average#Paths  1.0087890625
@@ -1690,7 +1690,7 @@ MaxDistance  1
 AverageDistance  0.0234375
 Name  HTGAWM 1594
 Probability  0.000212525710745
-TimeIndex  5354738
+TimeIndex  0.21707178308
 CProb  0.216417910448
 DisjointPaths 39
 Average#Paths  1.00564617315
@@ -1700,7 +1700,7 @@ MaxDistance  1
 AverageDistance  0.0752823086575
 Name  RedVelvet 1124
 Probability  0.000149861291642
-TimeIndex  3559618
+TimeIndex  0.205569232323
 CProb  0.208653846154
 DisjointPaths 39
 Average#Paths  1.03825622776
@@ -1710,7 +1710,7 @@ MaxDistance  2
 AverageDistance  0.164590747331
 Name  NowPlaying 3399
 Probability  0.00045318374581
-TimeIndex  3874345
+TimeIndex  0.185653016644
 CProb  0.350157728707
 DisjointPaths 116
 Average#Paths  1.00500147102
@@ -1720,7 +1720,7 @@ MaxDistance  2
 AverageDistance  0.0641365107385
 Name  iHeartAwards 50063
 Probability  0.00667482726286
-TimeIndex  3300817
+TimeIndex  0.1240026035
 CProb  0.978740587662
 DisjointPaths 2016
 Average#Paths  1.73621764142
@@ -1730,7 +1730,7 @@ MaxDistance  5
 AverageDistance  0.692253914989
 Name  sexy 1431
 Probability  0.000190793156885
-TimeIndex  2433314
+TimeIndex  0.155979633067
 CProb  0.303360889009
 DisjointPaths 62
 Average#Paths  1.0929419986
@@ -1740,7 +1740,7 @@ MaxDistance  4
 AverageDistance  0.12928022362
 Name  Android 2183
 Probability  0.00029105622745
-TimeIndex  6003270
+TimeIndex  0.375838020914
 CProb  0.263803680982
 DisjointPaths 14
 Average#Paths  1.0004580852
@@ -1750,7 +1750,7 @@ MaxDistance  1
 AverageDistance  0.0109940448923
 Name  Trump 3135
 Probability  0.000417985008271
-TimeIndex  3558650
+TimeIndex  0.131690079979
 CProb  0.507246376812
 DisjointPaths 183
 Average#Paths  1.36363636364
@@ -1760,7 +1760,7 @@ MaxDistance  4
 AverageDistance  0.310685805423
 Name  الاهلي 1444
 Probability  0.000192526428052
-TimeIndex  3529059
+TimeIndex  0.20655064575
 CProb  0.363148479428
 DisjointPaths 39
 Average#Paths  1.01731301939
@@ -1770,7 +1770,7 @@ MaxDistance  3
 AverageDistance  0.0678670360111
 Name  BTS 2918
 Probability  0.000389052712643
-TimeIndex  5151395
+TimeIndex  0.296951016488
 CProb  0.383673469388
 DisjointPaths 69
 Average#Paths  1.00822481151
@@ -1780,7 +1780,7 @@ MaxDistance  2
 AverageDistance  0.123372172721
 Name  nowplaying 1427
 Probability  0.00019025984268
-TimeIndex  2205373
+TimeIndex  0.129516929281
 CProb  0.0601851851852
 DisjointPaths 48
 Average#Paths  1.00280308339
@@ -1790,7 +1790,7 @@ MaxDistance  1
 AverageDistance  0.042046250876
 Name  Miitomo 1290
 Probability  0.000171993831155
-TimeIndex  5566098
+TimeIndex  0.314888167771
 CProb  0.204301075269
 DisjointPaths 9
 Average#Paths  1.0
@@ -1800,7 +1800,7 @@ MaxDistance  1
 AverageDistance  0.0124031007752
 Name  ipad 1609
 Probability  0.000214525639014
-TimeIndex  6089415
+TimeIndex  0.371072526242
 CProb  0.839705882353
 DisjointPaths 8
 Average#Paths  1.15413300186
@@ -1810,7 +1810,7 @@ MaxDistance  2
 AverageDistance  0.0298321939093
 Name  RTした人全員フォロー 1058
 Probability  0.000141061607257
-TimeIndex  5753294
+TimeIndex  0.321704477071
 CProb  0.205357142857
 DisjointPaths 26
 Average#Paths  1.0
@@ -1820,7 +1820,7 @@ MaxDistance  1
 AverageDistance  0.0283553875236
 Name  Taksim 4676
 Probability  0.000623444305798
-TimeIndex  2475402
+TimeIndex  0.0497309071322
 CProb  0.778280542986
 DisjointPaths 94
 Average#Paths  1.00748502994
@@ -1830,7 +1830,7 @@ MaxDistance  2
 AverageDistance  0.0840461933276
 Name  MSG2In500CrClub 1588
 Probability  0.000211725739437
-TimeIndex  1864420
+TimeIndex  0.114317279451
 CProb  0.895761941395
 DisjointPaths 148
 Average#Paths  3.1265743073
@@ -1840,7 +1840,7 @@ MaxDistance  4
 AverageDistance  0.760705289673
 Name  النصر 2588
 Probability  0.000345054290719
-TimeIndex  3537782
+TimeIndex  0.206941161432
 CProb  0.966486950129
 DisjointPaths 83
 Average#Paths  25.828438949
@@ -1850,7 +1850,7 @@ MaxDistance  4
 AverageDistance  0.345826893354
 Name  相互フォロー 2206
 Probability  0.000294122784129
-TimeIndex  3261721
+TimeIndex  0.117541124062
 CProb  0.385382059801
 DisjointPaths 39
 Average#Paths  1.00589301904
@@ -1860,7 +1860,7 @@ MaxDistance  2
 AverageDistance  0.0253853127833
 Name  เบนซ์ชนฟอร์ด 4822
 Probability  0.000642910274285
-TimeIndex  5610752
+TimeIndex  0.370485710792
 CProb  0.216985326812
 DisjointPaths 137
 Average#Paths  1.0058067192
@@ -1870,7 +1870,7 @@ MaxDistance  3
 AverageDistance  0.129614267939
 Name  TripleThreat 5735
 Probability  0.000764639241606
-TimeIndex  2655610
+TimeIndex  0.128814153513
 CProb  0.976619038783
 DisjointPaths 246
 Average#Paths  1.79651264167
@@ -1880,7 +1880,7 @@ MaxDistance  4
 AverageDistance  0.43347863993
 Name  win 2481
 Probability  0.000330788135732
-TimeIndex  4474851
+TimeIndex  0.268641365741
 CProb  0.487132352941
 DisjointPaths 67
 Average#Paths  1.01370415155
@@ -1890,7 +1890,7 @@ MaxDistance  2
 AverageDistance  0.0661023780734
 Name  UCL 4149
 Probability  0.000553180159272
-TimeIndex  3582905
+TimeIndex  0.185703068338
 CProb  0.15493726132
 DisjointPaths 72
 Average#Paths  1.02940467583
@@ -1900,7 +1900,7 @@ MaxDistance  2
 AverageDistance  0.33550253073
 Name  follow 1708
 Probability  0.000227725165591
-TimeIndex  4657843
+TimeIndex  0.23416098191
 CProb  0.0735210581839
 DisjointPaths 38
 Average#Paths  1.01990632319
@@ -1910,7 +1910,7 @@ MaxDistance  2
 AverageDistance  0.036299765808
 Name  拡散希望 6621
 Probability  0.000882768338042
-TimeIndex  5161921
+TimeIndex  0.273688050111
 CProb  0.801498127341
 DisjointPaths 162
 Average#Paths  1.03655037003
@@ -1920,7 +1920,7 @@ MaxDistance  3
 AverageDistance  0.0576952122036
 Name  SCOTUSnominee 1462
 Probability  0.000194926341975
-TimeIndex  3529761
+TimeIndex  0.159285166582
 CProb  0.0511923688394
 DisjointPaths 32
 Average#Paths  1.00957592339
@@ -1930,7 +1930,7 @@ MaxDistance  2
 AverageDistance  0.167578659371
 Name  시우민 1028
 Probability  0.000137061750719
-TimeIndex  6088188
+TimeIndex  0.433625169652
 CProb  0.336906584992
 DisjointPaths 32
 Average#Paths  1.01070038911
@@ -1940,7 +1940,7 @@ MaxDistance  2
 AverageDistance  0.079766536965
 Name  레드벨벳 1778
 Probability  0.000237058164181
-TimeIndex  4175427
+TimeIndex  0.247656965577
 CProb  0.628126474752
 DisjointPaths 75
 Average#Paths  1.09842519685
@@ -1950,7 +1950,7 @@ MaxDistance  3
 AverageDistance  0.258155230596
 Name  TeamFollowBack 1639
 Probability  0.000218525495552
-TimeIndex  2632325
+TimeIndex  0.0907123513021
 CProb  0.784829798344
 DisjointPaths 64
 Average#Paths  1.85295912142
@@ -1960,7 +1960,7 @@ MaxDistance  3
 AverageDistance  0.621110433191
 Name  ALDUB8thMonthsary 6585
 Probability  0.000877968510196
-TimeIndex  1415027
+TimeIndex  0.103730603397
 CProb  0.862390141539
 DisjointPaths 575
 Average#Paths  22.6637813212
@@ -1970,7 +1970,7 @@ MaxDistance  4
 AverageDistance  0.592103264996
 Name  IndvsPak 6839
 Probability  0.000911833962222
-TimeIndex  6219747
+TimeIndex  0.109734878014
 CProb  0.426592356688
 DisjointPaths 330
 Average#Paths  1.3696446849
@@ -1980,7 +1980,7 @@ MaxDistance  4
 AverageDistance  0.20631671297
 Name  PLL 1370
 Probability  0.000182660115257
-TimeIndex  2804410
+TimeIndex  0.104523868652
 CProb  0.193846153846
 DisjointPaths 20
 Average#Paths  1.00875273523
@@ -1990,7 +1990,7 @@ MaxDistance  2
 AverageDistance  0.136396790664
 Name  GameInsight 1717
 Probability  0.000228925122552
-TimeIndex  6740134
+TimeIndex  0.468619671986
 CProb  0.0
 DisjointPaths 1
 Average#Paths  1.0
@@ -2000,7 +2000,7 @@ MaxDistance  1
 AverageDistance  0.000582411182295
 Name  ipadgames 1479
 Probability  0.000197192927347
-TimeIndex  6534632
+TimeIndex  0.442584331226
 CProb  0.0
 DisjointPaths 0
 Average#Paths  1.0
@@ -2010,7 +2010,7 @@ MaxDistance  0
 AverageDistance  0.0
 Name  EXOluXionDot 1305
 Probability  0.000173993759424
-TimeIndex  5807429
+TimeIndex  0.425761347186
 CProb  0.146551724138
 DisjointPaths 33
 Average#Paths  1.01149425287
@@ -2020,7 +2020,7 @@ MaxDistance  2
 AverageDistance  0.28275862069
 Name  Tv8denİsteğimiz 1631
 Probability  0.000217458867142
-TimeIndex  1060841
+TimeIndex  0.0932016717296
 CProb  0.992855712092
 DisjointPaths 113
 Average#Paths  6.17167381974
@@ -2030,7 +2030,7 @@ MaxDistance  5
 AverageDistance  0.832004904966
 Name  BDOMaineFindWays 1269
 Probability  0.000169193931578
-TimeIndex  2042864
+TimeIndex  0.191830679594
 CProb  0.318142843533
 DisjointPaths 91
 Average#Paths  1.3073286052
@@ -2040,7 +2040,7 @@ MaxDistance  3
 AverageDistance  0.450748620961
 Name  사설토토사이트추천 1522
 Probability  0.000202926055052
-TimeIndex  2121886
+TimeIndex  0.147301766262
 CProb  0.988922155689
 DisjointPaths 21
 Average#Paths  1.95400788436
@@ -2050,7 +2050,7 @@ MaxDistance  2
 AverageDistance  0.475032851511
 Name  mPLUSRewards 1909
 Probability  0.000254524204399
-TimeIndex  6354483
+TimeIndex  0.443404227208
 CProb  0.0
 DisjointPaths 0
 Average#Paths  1.0
@@ -2060,7 +2060,7 @@ MaxDistance  0
 AverageDistance  0.0
 Name  idolmaster 1266
 Probability  0.000168793945924
-TimeIndex  5359173
+TimeIndex  0.415080815525
 CProb  1.0
 DisjointPaths 44
 Average#Paths  1.00473933649
@@ -2070,7 +2070,7 @@ MaxDistance  2
 AverageDistance  0.105845181675
 Name  askbelieber 1083
 Probability  0.000144394821039
-TimeIndex  3929188
+TimeIndex  0.172534634207
 CProb  0.812012480499
 DisjointPaths 96
 Average#Paths  1.14773776547
@@ -2080,7 +2080,7 @@ MaxDistance  4
 AverageDistance  0.603878116343
 Name  travel 1495
 Probability  0.000199326184168
-TimeIndex  5081866
+TimeIndex  0.287390767528
 CProb  0.0626118067979
 DisjointPaths 51
 Average#Paths  1.00802675585
@@ -2090,7 +2090,7 @@ MaxDistance  2
 AverageDistance  0.0936454849498
 Name  パズドラ 1019
 Probability  0.000135861793757
-TimeIndex  5010872
+TimeIndex  0.285908018395
 CProb  0.3
 DisjointPaths 10
 Average#Paths  1.0
@@ -2100,7 +2100,7 @@ MaxDistance  1
 AverageDistance  0.0500490677134
 Name  MasterChefBR 2287
 Probability  0.000304922396783
-TimeIndex  367411
+TimeIndex  0.0232250031994
 CProb  0.0539383561644
 DisjointPaths 46
 Average#Paths  1.00131176213
@@ -2110,7 +2110,7 @@ MaxDistance  2
 AverageDistance  0.0891998250984
 Name  HowtoPerfect 1823
 Probability  0.000243057948988
-TimeIndex  3898980
+TimeIndex  0.188130994447
 CProb  0.114906832298
 DisjointPaths 14
 Average#Paths  1.00054854635
@@ -2120,7 +2120,7 @@ MaxDistance  2
 AverageDistance  0.0504662643993
 Name  FLIGHT_LOG 3467
 Probability  0.000462250087297
-TimeIndex  4447169
+TimeIndex  0.248737578993
 CProb  0.627270401637
 DisjointPaths 143
 Average#Paths  1.064897606
@@ -2130,7 +2130,7 @@ MaxDistance  3
 AverageDistance  0.237957888665
 Name  Fly 1796
 Probability  0.000239458078104
-TimeIndex  4331850
+TimeIndex  0.236633820165
 CProb  0.275764439411
 DisjointPaths 54
 Average#Paths  1.00501113586
@@ -2140,7 +2140,7 @@ MaxDistance  2
 AverageDistance  0.0595768374165
 Name  FridayFeeling 1016
 Probability  0.000135461808103
-TimeIndex  5463601
+TimeIndex  0.174709144716
 CProb  0.0376344086022
 DisjointPaths 12
 Average#Paths  1.0
@@ -2150,7 +2150,7 @@ MaxDistance  1
 AverageDistance  0.0176991150442
 Name  BestCover 8401
 Probability  0.00112009315933
-TimeIndex  3352761
+TimeIndex  0.132826543859
 CProb  0.932577259556
 DisjointPaths 387
 Average#Paths  1.69765504107
@@ -2160,7 +2160,7 @@ MaxDistance  5
 AverageDistance  0.526603975717
 Name  LINEマンガ 2392
 Probability  0.000318921894668
-TimeIndex  6501819
+TimeIndex  0.457491508775
 CProb  0.0
 DisjointPaths 0
 Average#Paths  1.0
@@ -2170,7 +2170,7 @@ MaxDistance  0
 AverageDistance  0.0
 Name  followback 1412
 Probability  0.000188259914411
-TimeIndex  4495223
+TimeIndex  0.208090556647
 CProb  0.0862068965517
 DisjointPaths 22
 Average#Paths  1.00141643059
@@ -2180,7 +2180,7 @@ MaxDistance  1
 AverageDistance  0.0177053824363
 Name  BestFanArmy 39509
 Probability  0.00526767773263
-TimeIndex  3460227
+TimeIndex  0.122756877056
 CProb  0.964167409861
 DisjointPaths 1549
 Average#Paths  1.67466464186
@@ -2190,7 +2190,7 @@ MaxDistance  5
 AverageDistance  0.718931915971
 Name  ALDUB35thWeeksary 5912
 Probability  0.000788238395183
-TimeIndex  3070346
+TimeIndex  0.159238106153
 CProb  0.853513591396
 DisjointPaths 424
 Average#Paths  26.1486806495
@@ -2200,7 +2200,7 @@ MaxDistance  4
 AverageDistance  0.734945872801
 Name  Yahooニュース 1649
 Probability  0.000219858781065
-TimeIndex  5076604
+TimeIndex  0.350993315007
 CProb  0.333333333333
 DisjointPaths 23
 Average#Paths  1.0
@@ -2210,7 +2210,7 @@ MaxDistance  1
 AverageDistance  0.0151607034566
 Name  안전놀이터 1137
 Probability  0.000151594562808
-TimeIndex  3048828
+TimeIndex  0.179443690569
 CProb  0.129638792677
 DisjointPaths 21
 Average#Paths  1.45118733509
@@ -2220,7 +2220,7 @@ MaxDistance  2
 AverageDistance  0.507475813544
 Name  business 1094
 Probability  0.000145861435103
-TimeIndex  3554681
+TimeIndex  0.178797675558
 CProb  0.121276595745
 DisjointPaths 35
 Average#Paths  1.01005484461
@@ -2230,7 +2230,7 @@ MaxDistance  2
 AverageDistance  0.136197440585
 Name  تسبيح 1410
 Probability  0.000187993257309
-TimeIndex  4422772
+TimeIndex  0.297773594321
 CProb  0.3
 DisjointPaths 15
 Average#Paths  1.00070921986
@@ -2240,7 +2240,7 @@ MaxDistance  1
 AverageDistance  0.0141843971631
 Name  DolceAmoreDate 1847
 Probability  0.000246257834219
-TimeIndex  4682001
+TimeIndex  0.270618041655
 CProb  0.887338792723
 DisjointPaths 150
 Average#Paths  4.31835408771
@@ -2250,7 +2250,7 @@ MaxDistance  5
 AverageDistance  0.525175961018
 Name  TrumpTrain 1684
 Probability  0.00022452528036
-TimeIndex  2551645
+TimeIndex  0.10101208431
 CProb  0.575598542679
 DisjointPaths 125
 Average#Paths  1.43764845606
@@ -2260,7 +2260,7 @@ MaxDistance  3
 AverageDistance  0.366389548694
 Name  RT 6194
 Probability  0.000825837046645
-TimeIndex  4094034
+TimeIndex  0.225762452054
 CProb  0.391546735343
 DisjointPaths 241
 Average#Paths  2.33451727478
@@ -2270,7 +2270,7 @@ MaxDistance  3
 AverageDistance  0.152244107201
 Name  صورة 1051
 Probability  0.000140128307398
-TimeIndex  6022235
+TimeIndex  0.39365024878
 CProb  0.0
 DisjointPaths 3
 Average#Paths  1.0
@@ -2280,7 +2280,7 @@ MaxDistance  1
 AverageDistance  0.00475737392959
 Name  5SOSFam 10234
 Probability  0.00136448439383
-TimeIndex  3193172
+TimeIndex  0.0792862762389
 CProb  0.989082936418
 DisjointPaths 340
 Average#Paths  2.18368343918
@@ -2290,7 +2290,7 @@ MaxDistance  5
 AverageDistance  0.703663898388
 Name  LadyGaga 3028
 Probability  0.000403718853284
-TimeIndex  3970681
+TimeIndex  0.15630181446
 CProb  0.987543597409
 DisjointPaths 77
 Average#Paths  2.17404227213
@@ -2300,7 +2300,7 @@ MaxDistance  4
 AverageDistance  0.496697490092
 Name  EXOluXionDotInSeoul 4384
 Probability  0.000584512368823
-TimeIndex  5906689
+TimeIndex  0.43703353064
 CProb  0.775607312797
 DisjointPaths 203
 Average#Paths  1.05406021898
@@ -2310,7 +2310,7 @@ MaxDistance  3
 AverageDistance  0.40579379562
 Name  Directioners 15819
 Probability  0.00210912435274
-TimeIndex  3705283
+TimeIndex  0.214827886265
 CProb  0.844995840173
 DisjointPaths 660
 Average#Paths  1.50018963338
@@ -2320,7 +2320,7 @@ MaxDistance  5
 AverageDistance  0.583691529709
 Name  الرياض 2159
 Probability  0.000287856342219
-TimeIndex  3619247
+TimeIndex  0.201866680334
 CProb  0.864403205399
 DisjointPaths 81
 Average#Paths  1.61695229273
@@ -2330,7 +2330,7 @@ MaxDistance  3
 AverageDistance  0.249189439555
 Name  MarkBam 1579
 Probability  0.000210525782475
-TimeIndex  3963988
+TimeIndex  0.225091375674
 CProb  0.278776978417
 DisjointPaths 70
 Average#Paths  1.01266624446
@@ -2340,7 +2340,7 @@ MaxDistance  2
 AverageDistance  0.158961367954
 Name  نيك 1511
 Probability  0.000201459440988
-TimeIndex  2113034
+TimeIndex  0.080132678663
 CProb  0.999546485261
 DisjointPaths 25
 Average#Paths  2.59232296492
@@ -2350,7 +2350,7 @@ MaxDistance  3
 AverageDistance  0.0860357379219
 Name  WIN 1591
 Probability  0.000212125725091
-TimeIndex  4137377
+TimeIndex  0.259866165849
 CProb  0.288961038961
 DisjointPaths 37
 Average#Paths  1.01068510371
@@ -2360,7 +2360,7 @@ MaxDistance  2
 AverageDistance  0.0540540540541
 Name  세훈 1643
 Probability  0.000219058809757
-TimeIndex  5916858
+TimeIndex  0.405690223042
 CProb  0.220338983051
 DisjointPaths 41
 Average#Paths  1.00669506999
@@ -2370,7 +2370,7 @@ MaxDistance  2
 AverageDistance  0.0992087644553
 Name  CareerArc 1013
 Probability  0.000135061822449
-TimeIndex  5406540
+TimeIndex  0.329597491899
 CProb  0.0
 DisjointPaths 10
 Average#Paths  1.00098716683
@@ -2380,7 +2380,7 @@ MaxDistance  1
 AverageDistance  0.00987166831194
 Name  android 8083
 Probability  0.00107769468002
-TimeIndex  5810750
+TimeIndex  0.372905522601
 CProb  0.0
 DisjointPaths 3
 Average#Paths  1.0
@@ -2390,7 +2390,7 @@ MaxDistance  1
 AverageDistance  0.000371149325745
 Name  DangerousWoman 1301
 Probability  0.000173460445219
-TimeIndex  6278580
+TimeIndex  0.383776274033
 CProb  0.0274314214464
 DisjointPaths 18
 Average#Paths  1.00460829493
@@ -2400,7 +2400,7 @@ MaxDistance  1
 AverageDistance  0.0391705069124
 Name  Budget2016 3277
 Probability  0.000436917662553
-TimeIndex  2158264
+TimeIndex  0.104399533235
 CProb  0.313206214689
 DisjointPaths 173
 Average#Paths  1.07567897467
@@ -2410,7 +2410,7 @@ MaxDistance  3
 AverageDistance  0.192859322551
 Name  Job 2062
 Probability  0.000274923472745
-TimeIndex  4052079
+TimeIndex  0.276040404972
 CProb  0.0
 DisjointPaths 29
 Average#Paths  1.00193986421
@@ -2420,7 +2420,7 @@ MaxDistance  1
 AverageDistance  0.0164888457808
 Name  Repost 1706
 Probability  0.000227458508488
-TimeIndex  6338275
+TimeIndex  0.409156232521
 CProb  0.000288517022504
 DisjointPaths 16
 Average#Paths  1.00058616647
@@ -2430,7 +2430,7 @@ MaxDistance  1
 AverageDistance  0.010550996483
 Name  2PMhousepartyinbkk 1171
 Probability  0.000156127733552
-TimeIndex  6231525
+TimeIndex  0.375260791787
 CProb  0.468213317264
 DisjointPaths 66
 Average#Paths  1.048676345
@@ -2440,7 +2440,7 @@ MaxDistance  3
 AverageDistance  0.33219470538
 Name  방탄소년단 3159
 Probability  0.000421184893502
-TimeIndex  4779255
+TimeIndex  0.255505718319
 CProb  0.35593220339
 DisjointPaths 62
 Average#Paths  1.0079138968
@@ -2450,7 +2450,7 @@ MaxDistance  2
 AverageDistance  0.13042101931
 Name  18Mart1915 2252
 Probability  0.000300255897488
-TimeIndex  2435208
+TimeIndex  0.0779135671254
 CProb  0.552
 DisjointPaths 46
 Average#Paths  1.01598579041
@@ -2460,7 +2460,7 @@ MaxDistance  3
 AverageDistance  0.0701598579041
 Name  النصر_لخويا 1696
 Probability  0.000226125222975
-TimeIndex  2218124
+TimeIndex  0.0672211363398
 CProb  0.339581719597
 DisjointPaths 75
 Average#Paths  1.10672169811
@@ -2470,7 +2470,7 @@ MaxDistance  2
 AverageDistance  0.107900943396
 Name  EarthHour 1252
 Probability  0.000166927346206
-TimeIndex  5153738
+TimeIndex  0.217542496398
 CProb  0.109090909091
 DisjointPaths 26
 Average#Paths  1.01517571885
