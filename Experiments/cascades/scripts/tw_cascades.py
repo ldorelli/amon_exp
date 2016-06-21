@@ -14,8 +14,8 @@ import sys
 
 
 def getCascadeFlow (c):
-    K = c.node_keys()
 
+    K = c.node_keys()
 
     v_in = {}
     v_out = {}
@@ -29,6 +29,14 @@ def getCascadeFlow (c):
     S = c_index
     T = c_index + 1
     c_index += 2
+
+    I = 0
+    L = 0
+    for x in K:
+        if c.in_degree(x) == 0:
+            I += 1
+        if c.out_degree(x) == 0:
+            L += 1
 
     f = amon.NetworkFlow(c_index)
     E = 0
@@ -47,8 +55,9 @@ def getCascadeFlow (c):
         for j in c.adjacency(x):
             f.add_edge (v_out[x], v_in[j[0]], 1)
 
-
-    return f.max_flow(S, T)
+    if min (L, I) == 0:
+        return 0.0
+    return f.max_flow(S, T)/float(min(I, L))
 
 def findInterval (data, percentage, t):
     j = 0
@@ -107,7 +116,7 @@ for line in f:
 
     print 'Name ', tag['name'].encode('utf-8'), len(pr)
     print 'Probability ', len(pr)/float(g.nodes_qty())
-    print 'TimeIndex ', smallestFitInterval (v, 0.5)
+    print 'TimeIndex ', smallestFitInterval (v, 0.8)
 
 
     # P ( compartilhar | dois vizinhos compartilharam) = P ( A | B ) / P (B)
@@ -134,13 +143,17 @@ for line in f:
 	if k in pr:
 	    num += o_ref[k] * i_ref[k]
 
+    q = 1
     if den:
         print 'CProb ', float(num)/float(den)
+        if float(num)/float(den) > 0.5:
+            q = 2
     else:
         print 'CProb ', 0.0
 
 
-    cm.run_from_record_paths(v,  1)
+
+    cm.run_from_record_paths(v,  2)
     cg = cm.cascades()
 
     D = cg.dag_paths()
@@ -149,7 +162,17 @@ for line in f:
     for x in D:
         r += D[x]
 
-    print 'ConnectedElements ', cg.nodes_qty()/float(len(pr))
+    CC = cg.connected_components()
+    X = {}
+    mai = 0
+    for e in CC:
+        if CC[e] not in X:
+            X[CC[e]] = 0
+        X[CC[e]] += 1
+        mai = max (mai, X[CC[e]])
+
+
+    print 'ConnectedElements ', mai/float(cg.nodes_qty())
 
     print 'DisjointPaths' , getCascadeFlow (cg)
 

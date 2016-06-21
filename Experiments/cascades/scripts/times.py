@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import math
 import json
 import amon
@@ -5,6 +6,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import matplotlib as mpl
 
+sns.set_style(style='white')
 # Mon Mar 14 05:29:54 +0000 2016
 def get_time (date):
     x = date.split(' ')
@@ -68,7 +70,7 @@ def write_curve (time_data, file, N, legend):
         k += 1
         tot += cnt[t]
         y.append (tot/float(N) * 100.0)
-    if file == '../figs/time_curves/BeFoUr.png':
+    if file == '../figs/time_curves/BeFoUr.pdf':
         print x, y
 
     x = sorted (x)
@@ -76,9 +78,12 @@ def write_curve (time_data, file, N, legend):
     print 'Plotting ' + file
     plt.clf()
     plt.plot (x, y, marker='o',  markersize=2.5)
-    plt.xticks (x2, l, rotation=45)
-    plt.ylabel ('Cascade Size (% from ' + str(N) + ' users)')
-    plt.xlabel ('Time (hours)')
+    plt.xticks (x2, l, rotation=45, size=11.5)
+    plt.grid (axis='x',color='grey', linestyle='--', lw=0.5, alpha=0.5)
+    plt.ylabel (u'#Usuários (% de 7216591 usuários)')
+    plt.xlabel ('Data', size=11)
+    plt.tight_layout()
+
     plt.savefig (file)
 
 
@@ -114,5 +119,5 @@ for l in f:
     if len(use) < 1000:
         continue
 
-    write_histogram (t, '../figs/htimes/' + j['name'] + '.png')
-    write_curve (t, '../figs/time_curves/' + j['name'] + '.png', N, hours)
+    write_histogram (t, '../figs/htimes/' + j['name'] + '.pdf')
+    write_curve (t, '../figs/time_curves/' + j['name'] + '.pdf', N, hours)

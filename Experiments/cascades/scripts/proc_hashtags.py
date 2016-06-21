@@ -26,6 +26,5 @@ for line  in f:
 
 for tag in tags:
     t = { 'name': tag, 'values' : tags[tag] }
-    if len (t['values']) >= 1000:
-        print json.dumps (t)
+    print json.dumps (t)
 f.close()

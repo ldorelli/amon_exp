@@ -15,7 +15,11 @@ import matplotlib.cm as cm
 import seaborn as sns
 import pandas as pd
 
-f = open('data_cascades6', 'r')
+#sns.set_style("whitegrid")
+
+sns.set_palette('gray')
+sns.set_style(style='white')
+f = open('data_cascades8', 'r')
 
 m = {}
 labels = [ "name", "density", "timei",  "mprob", "conec", "dpaths", "avg_paths1", "ccentrality1",
@@ -24,10 +28,10 @@ labels = [ "name", "density", "timei",  "mprob", "conec", "dpaths", "avg_paths1"
 names = {}
 names['conec'] = 'Connected Elements'
 names['dpaths'] = 'Number of Disjoint Paths'
-names['timei'] = 'STW (70%)'
+names['timei'] = 'Stw (70%)'
 names['name'] = 'Hashtag Name'
 names['density'] = 'Density'
-names['mprob'] = 'P (X | A)'
+names['mprob'] = 'Q'
 names['avg_paths1'] = 'Average Number of Paths to Node'
 names['ccentrality1'] = 'Cascade Centrality'
 names['ncentrality1'] = 'Network Centrality of Cascade'
@@ -66,6 +70,6 @@ for x in names:
 		df[names[x]] = m[x]
 		df[names[y]] = m[y]
 		plt.clf()
-		sns.jointplot (x=names[x], y=names[y], data=df, alpha=0.5)
+		sns.jointplot (x=names[x], y=names[y], data=df, alpha=0.7, s=15)
 		plt.savefig ('../figs/cascade_grap/' + x + '_' + y + '.png')
 		print 'Saved fig ' + '../figs/cascade_grap/' + x + '_' + y + '.png'

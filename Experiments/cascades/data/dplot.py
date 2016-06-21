@@ -46,7 +46,7 @@ current_palette = sns.color_palette()
 
 B = {}
 for i in range (0, 20):
-    f = open('./BET2/Output/output'+str(i), 'r')
+    f = open('./BET/Output/output'+str(i), 'r')
     for line in f:
         x = line.split(' ')
         if len(x) != 2:
@@ -58,7 +58,7 @@ for i in range (0, 20):
             B[x[0]] = float(x[1])
 
 g = amon.Graph()
-g.load_directed('../netw2')
+g.load_directed('../raw/s1/netw2')
 for x in B:
     B[x] /= float(g.nodes_qty() * (g.nodes_qty() - 1))
 
